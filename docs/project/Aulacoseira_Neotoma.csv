@@ -1,0 +1,748 @@
+"siteid","working_taxon","sitename","lat","long","data_source","source_dataset_ids","datasetids","original_taxa","n_datasets","samples_gt_2_5pct","max_percent"
+13023,"Aulacoseira alpigena","Lake BC01",75.184248,-111.91635,"Neotoma","Neotoma_19312","19312","Aulacoseira alpigena",1,27,100
+2219,"Aulacoseira alpigena","Lake RS29",73.13333,-95.28333,"Neotoma","Neotoma_58559","58559","Aulacoseira alpigena",1,43,71.0374639769452
+13283,"Aulacoseira alpigena","Snow Lake",46.757024,-121.697852,"Neotoma","Neotoma_19807","19807","Aulacoseira alpigena",1,7,46.25
+23027,"Aulacoseira alpigena","Lake Waynoka",38.93436,-83.77649,"Neotoma","Neotoma_39765","39765","Aulacoseira alpigena",1,1,44.7882736156352
+23019,"Aulacoseira alpigena","Lake St. Louis",38.7932,-90.78181,"Neotoma","Neotoma_39756","39756","Aulacoseira alpigena",1,1,40.2
+30417,"Aulacoseira alpigena","Ann Lake",45.91073,-93.412764,"Neotoma","Neotoma_57600","57600","Aulacoseira alpigena",1,11,36.0774818401937
+23356,"Aulacoseira alpigena","Eagle Lake",33.14558,-90.35508,"Neotoma","Neotoma_40335","40335","Aulacoseira alpigena",1,1,31.9148936170213
+23052,"Aulacoseira alpigena","Lower Black Bear Creek Site 4 Reservoir",36.38727,-96.82324,"Neotoma","Neotoma_39790","39790","Aulacoseira alpigena",1,1,31.8982387475538
+14207,"Aulacoseira alpigena","Eunice Lake",46.954978,-121.878666,"Neotoma","Neotoma_22209","22209","Aulacoseira alpigena",1,2,30.4
+23041,"Aulacoseira alpigena","Little Wewoka Creek Site 15 Reservoir",35.13865,-96.23065,"Neotoma","Neotoma_39779","39779","Aulacoseira alpigena",1,1,27.4161735700197
+23081,"Aulacoseira alpigena","Morse Reservoir",40.0752,-86.0555,"Neotoma","Neotoma_39819","39819","Aulacoseira alpigena",1,1,25.6972111553785
+13282,"Aulacoseira alpigena","Copper Lake",48.917844,-121.45133,"Neotoma","Neotoma_19799","19799","Aulacoseira alpigena",1,7,23.8
+22944,"Aulacoseira alpigena","La Due Reservoir",41.36497,-81.22089,"Neotoma","Neotoma_39677","39677","Aulacoseira alpigena",1,1,23.0072463768116
+22756,"Aulacoseira alpigena","Bischoff Reservoir",39.27167,-85.19021,"Neotoma","Neotoma_39480","39480","Aulacoseira alpigena",1,1,22.1666666666667
+23203,"Aulacoseira alpigena","Versailles Lake",39.07938,-85.2419,"Neotoma","Neotoma_39947","39947","Aulacoseira alpigena",1,1,21.4711729622266
+22779,"Aulacoseira alpigena","Caruth Lake",32.94496,-96.45334,"Neotoma","Neotoma_39504","39504","Aulacoseira alpigena",1,1,20.9225700164745
+22797,"Aulacoseira alpigena","Caruth Lake",32.94496,-96.45334,"Neotoma","Neotoma_39522","39522","Aulacoseira alpigena",1,1,20.9225700164745
+23213,"Aulacoseira alpigena","West Branch Reservoir (AKA M.J.Kirwan Reservoir)",41.13541,-81.13692,"Neotoma","Neotoma_39957","39957","Aulacoseira alpigena",1,1,20.1596806387226
+22999,"Aulacoseira alpigena","Lake O' the Pines",32.76231,-94.60523,"Neotoma","Neotoma_39734","39734","Aulacoseira alpigena",1,1,18.6
+23031,"Aulacoseira alpigena","Lamont Reservoir",42.10765,-111.81594,"Neotoma","Neotoma_39769","39769","Aulacoseira alpigena",1,1,16.2348877374784
+23078,"Aulacoseira alpigena","Montrose Lake",38.30677,-93.95276,"Neotoma","Neotoma_39816","39816","Aulacoseira alpigena",1,1,16.2
+42039,"Aulacoseira alpigena","Rush Lake",44.56159,-110.82654,"Neotoma","Neotoma_74625","74625","Aulacoseira alpigena",1,5,15
+14140,"Aulacoseira alpigena","Brady Lake",58.322072,-136.681838,"Neotoma","Neotoma_22063","22063","Aulacoseira alpigena",1,14,14.9908592321755
+23113,"Aulacoseira alpigena","Pennock",37.8085,-94.20631,"Neotoma","Neotoma_39853","39853","Aulacoseira alpigena",1,1,14.9606299212598
+14209,"Aulacoseira alpigena","Lower Thornton Lake",48.683582,-121.328694,"Neotoma","Neotoma_22213","22213","Aulacoseira alpigena",1,2,14.6
+26602,"Aulacoseira alpigena","Dyers Lake",47.528,-90.981686,"Neotoma","Neotoma_47284","47284","Aulacoseira alpigena",1,1,14.0575079872204
+23219,"Aulacoseira alpigena","White Rock Lake",32.83666,-96.71956,"Neotoma","Neotoma_39963","39963","Aulacoseira alpigena",1,1,11.9521912350598
+22972,"Aulacoseira alpigena","Lake Hobart",35.1689,-99.0735,"Neotoma","Neotoma_39707","39707","Aulacoseira alpigena",1,1,11.6279069767442
+23286,"Aulacoseira alpigena","Black Lake",42.93075,-109.65346,"Neotoma","Neotoma_40101","40101","Aulacoseira alpigena",1,1,11.3960113960114
+23055,"Aulacoseira alpigena","Lucys Pond",40.47787,-83.87907,"Neotoma","Neotoma_39793","39793","Aulacoseira alpigena",1,1,11.0749185667752
+22943,"Aulacoseira alpigena","La Cygnes Lake",38.35724,-94.63514,"Neotoma","Neotoma_39676","39676","Aulacoseira alpigena",1,1,10.8
+23234,"Aulacoseira alpigena","Wright Patman Lake",33.24998,-94.33242,"Neotoma","Neotoma_39981","39981","Aulacoseira alpigena",1,1,10
+23128,"Aulacoseira alpigena","Prairie Creek",40.11693,-85.28407,"Neotoma","Neotoma_39869","39869","Aulacoseira alpigena",1,1,8.85826771653543
+23201,"Aulacoseira alpigena","Vaughn Pond",34.32056,-80.62827,"Neotoma","Neotoma_39945","39945","Aulacoseira alpigena",1,1,8.8
+23103,"Aulacoseira alpigena","Okemah Lake",35.50849,-96.32122,"Neotoma","Neotoma_39841","39841","Aulacoseira alpigena",1,1,7.85046728971963
+14237,"Aulacoseira alpigena","Santa Fe Lake",35.788754,-105.778362,"Neotoma","Neotoma_22259","22259","Melosira distans var. alpigena",1,4,7.6320939334638
+24422,"Aulacoseira alpigena","Killarney Lake",47.52073,-116.56435,"Neotoma","Neotoma_50290 | Neotoma_50291","50290 | 50291","Aulacoseira alpigena",2,2,7.35009671179884
+23263,"Aulacoseira alpigena","August Lake",47.762276,-91.610982,"Neotoma","Neotoma_47466 | Neotoma_46265","47466 | 46265","Aulacoseira alpigena",2,2,7.23270440251572
+23159,"Aulacoseira alpigena","Smithville",39.41441,-94.49793,"Neotoma","Neotoma_39900","39900","Aulacoseira alpigena",1,1,7.00976042590949
+22814,"Aulacoseira alpigena","Cochiti Lake",35.66654,-106.30139,"Neotoma","Neotoma_39539","39539","Aulacoseira alpigena",1,1,6.84803001876173
+41691,"Aulacoseira alpigena","Lake Hazen",81.767114,-71.51308,"Neotoma","Neotoma_74108","74108","Aulacoseira alpigena",1,1,6.48148148148148
+23377,"Aulacoseira alpigena","Forbes Lake",47.19205,-122.97256,"Neotoma","Neotoma_40359","40359","Aulacoseira alpigena",1,1,6.23501199040767
+23035,"Aulacoseira alpigena","Leesville Lake",40.46003,-81.16283,"Neotoma","Neotoma_39773","39773","Aulacoseira alpigena",1,1,6.11439842209073
+22933,"Aulacoseira alpigena","Keystone",36.16293,-96.36835,"Neotoma","Neotoma_39664","39664","Aulacoseira alpigena",1,1,6.0478199718706
+22813,"Aulacoseira alpigena","Coalgate Reservoir",34.57061,-96.23836,"Neotoma","Neotoma_39538","39538","Aulacoseira alpigena",1,1,5.9645852749301
+22929,"Aulacoseira alpigena","Keith Sebelius Lake",39.78368,-99.96361,"Neotoma","Neotoma_39660","39660","Aulacoseira alpigena",1,1,5.82362728785358
+22990,"Aulacoseira alpigena","Lake McBride",41.79161,-91.53533,"Neotoma","Neotoma_39725","39725","Aulacoseira alpigena",1,1,5.8
+22949,"Aulacoseira alpigena","Lake Alpine",38.47604,-119.99978,"Neotoma","Neotoma_39682","39682","Aulacoseira alpigena",1,1,5.25328330206379
+14022,"Aulacoseira alpigena","Plastic Lake",45.178846,-78.823194,"Neotoma","Neotoma_21748","21748","Aulacoseira distans var. septentrionalis",1,1,5.04854368932039
+22988,"Aulacoseira alpigena","Lake Mattoon",39.34795,-88.46819,"Neotoma","Neotoma_39723","39723","Aulacoseira alpigena",1,1,4.94186046511628
+14208,"Aulacoseira alpigena","Hidden Lake (NOCA)",48.495276,-121.189814,"Neotoma","Neotoma_22211","22211","Aulacoseira alpigena",1,1,4.6
+18356,"Aulacoseira alpigena","31-E-09",45.72,-78.35,"Neotoma","Neotoma_38887","38887","Aulacoseira alpigena",1,7,4.59770114942529
+23072,"Aulacoseira alpigena","Miller Creek Reservoir",33.39525,-99.39138,"Neotoma","Neotoma_39810","39810","Aulacoseira alpigena",1,1,4.4464609800363
+23162,"Aulacoseira alpigena","Soil Conservation Service Site 137 Reservoir",32.45275,-96.06121,"Neotoma","Neotoma_39903","39903","Aulacoseira alpigena",1,1,4.29752066115702
+23108,"Aulacoseira alpigena","O'Shaughnessey Reservoir",40.20926,-83.1404,"Neotoma","Neotoma_39846","39846","Aulacoseira alpigena",1,1,4.19161676646707
+23167,"Aulacoseira alpigena","Spring Creek",37.21418,-78.62539,"Neotoma","Neotoma_39909","39909","Aulacoseira alpigena",1,1,4.03071017274472
+23319,"Aulacoseira alpigena","Cave Lake",47.46562,-116.60215,"Neotoma","Neotoma_40196","40196","Aulacoseira alpigena",1,1,4.02298850574713
+23018,"Aulacoseira alpigena","Lake Somerville",30.29009,-96.59781,"Neotoma","Neotoma_39755","39755","Aulacoseira alpigena",1,1,4
+23304,"Aulacoseira alpigena","Bruce Lake",41.0771,-86.46356,"Neotoma","Neotoma_40181","40181","Aulacoseira alpigena",1,1,3.99334442595674
+22758,"Aulacoseira alpigena","Bluestem Lake",36.70286,-96.42019,"Neotoma","Neotoma_39482","39482","Aulacoseira alpigena",1,1,3.93700787401575
+23220,"Aulacoseira alpigena","Whitegrass-Waterhole Creeks Site 9 Reservoir",33.88536,-94.93952,"Neotoma","Neotoma_39964","39964","Aulacoseira alpigena",1,1,3.83333333333333
+924,"Aulacoseira alpigena","Lake of the Ozarks",38.16675,-92.96597,"Neotoma","Neotoma_39736","39736","Aulacoseira alpigena",1,1,3.8
+23375,"Aulacoseira alpigena","Flat River Reservoir",41.68687,-71.61088,"Neotoma","Neotoma_40275","40275","Aulacoseira alpigena",1,1,3.47912524850895
+23302,"Aulacoseira alpigena","Brooklyn Lake",41.37197,-106.25025,"Neotoma","Neotoma_40179","40179","Aulacoseira alpigena",1,1,3.47826086956522
+13893,"Aulacoseira alpigena","PP-1",49.69,-94.94,"Neotoma","Neotoma_21306","21306","Aulacoseira alpigena",1,1,3.40909090909091
+24807,"Aulacoseira alpigena","Island Pond (Ar)",46.9518,-68.843,"Neotoma","Neotoma_54755","54755","Aulacoseira alpigena",1,1,3.1936127744511
+23179,"Aulacoseira alpigena","Summersville Lake",38.22694,-80.85406,"Neotoma","Neotoma_39922","39922","Aulacoseira alpigena",1,1,2.96442687747036
+23370,"Aulacoseira alpigena","Fence Lake",46.47569,-88.19189,"Neotoma","Neotoma_40351","40351","Aulacoseira alpigena",1,1,2.9038112522686
+919,"Aulacoseira alpigena","Lake Wappapello",36.97055,-90.35313,"Neotoma","Neotoma_39762","39762","Aulacoseira alpigena",1,1,2.79441117764471
+22774,"Aulacoseira alpigena","Caballo Reservoir",33.00711,-107.27479,"Neotoma","Neotoma_39499","39499","Aulacoseira alpigena",1,1,2.71493212669683
+13393,"Aulacoseira alpigena","Big Lake",44.373748,-121.87479,"Neotoma","Neotoma_40097","40097","Aulacoseira alpigena",1,1,2.59259259259259
+23289,"Aulacoseira alpigena","Blanchard Lake",48.00822,-116.97012,"Neotoma","Neotoma_40104","40104","Aulacoseira alpigena",1,1,2.55009107468124
+23315,"Aulacoseira alpigena","Caspian Lake",44.58636,-72.31186,"Neotoma","Neotoma_40136","40136","Aulacoseira alpigena",1,1,2.50783699059561
+27641,"Aulacoseira alpigena","West Twin Lake",42.403518,-101.44454,"Neotoma","Neotoma_49625","49625","Aulacoseira distans var. septentrionalis",1,1,2.50783699059561
+1597,"Aulacoseira coroniformis","Lake Annie",27.206702,-81.351632,"Neotoma","Neotoma_55915","55915","Aulacoseira coroniformis",1,142,13.2013201320132
+753,"Aulacoseira distans","Duck Pond",41.93248,-70.00076,"Neotoma","Neotoma_61306","61306","Melosira distans vars.",1,37,92.4144310823312
+27652,"Aulacoseira distans","Round Lake",42.42874,-101.561484,"Neotoma","Neotoma_49652","49652","Aulacoseira distans",1,30,79.1390728476821
+13023,"Aulacoseira distans","Lake BC01",75.184248,-111.91635,"Neotoma","Neotoma_19312","19312","Aulacoseira distans",1,20,64.5378151260504
+14262,"Aulacoseira distans","Squaw Lake",43.63186,-74.73955,"Neotoma","Neotoma_22311","22311","Aulacoseira distans",1,9,51.0835913312693
+14261,"Aulacoseira distans","Indian Lake",43.616774,-74.757094,"Neotoma","Neotoma_22310","22310","Aulacoseira distans",1,11,41.6879795396419
+728,"Aulacoseira distans","Heart Lake",44.181964,-73.970216,"Neotoma","Neotoma_49250","49250","Melosira distans",1,32,41.439205955335
+13393,"Aulacoseira distans","Big Lake",44.373748,-121.87479,"Neotoma","Neotoma_40097 | Neotoma_40072","40097 | 40072","Aulacoseira distans",2,2,40.7407407407407
+11850,"Aulacoseira distans","Glasgow Lake",46.821428,-60.495672,"Neotoma","Neotoma_17940","17940","Aulacoseira distans",1,4,38.047138047138
+745,"Aulacoseira distans","Upper Wallface Pond",44.147978,-74.056184,"Neotoma","Neotoma_49249","49249","Melosira distans",1,13,32.1766561514196
+13692,"Aulacoseira distans","Gull Lake",46.688586,-60.541344,"Neotoma","Neotoma_20874","20874","Aulacoseira distans",1,4,31.6602316602317
+11827,"Aulacoseira distans","Big Dam Lake West",44.4592,-65.29302,"Neotoma","Neotoma_17954 | Neotoma_17904","17954 | 17904","Aulacoseira distans",2,21,29.9003322259136
+11846,"Aulacoseira distans","Peskowesk Lake",44.309514,-65.298444,"Neotoma","Neotoma_17953 | Neotoma_17935","17953 | 17935","Aulacoseira distans",2,23,29.8013245033113
+11837,"Aulacoseira distans","Upper Silver Lake",44.284194,-65.24769,"Neotoma","Neotoma_17916","17916","Aulacoseira distans",1,3,29.5275590551181
+11813,"Aulacoseira distans","Matthew Lake",44.328,-64.684178,"Neotoma","Neotoma_17888","17888","Aulacoseira distans",1,3,28.8577154308617
+11760,"Aulacoseira distans","Grafton Lake",44.380262,-65.18858,"Neotoma","Neotoma_17738 | Neotoma_17909","17738 | 17909","Aulacoseira distans",2,19,27.3333333333333
+24484,"Aulacoseira distans","Nate P.",43.857412,-74.09086,"Neotoma","Neotoma_52003","52003","Melosira distans",1,2,27.0916334661355
+11826,"Aulacoseira distans","Big Dam Lake East",44.448638,-65.269372,"Neotoma","Neotoma_17955 | Neotoma_17903","17955 | 17903","Aulacoseira distans",2,19,27.0903010033445
+11835,"Aulacoseira distans","Peskawesk Lake",44.314254,-65.367186,"Neotoma","Neotoma_17914","17914","Aulacoseira distans",1,5,26.8608414239482
+11802,"Aulacoseira distans","Branch Pond",46.741216,-60.456702,"Neotoma","Neotoma_17876","17876","Aulacoseira distans",1,3,25.9259259259259
+11852,"Aulacoseira distans","Black Lake",44.291408,-65.27118,"Neotoma","Neotoma_17942","17942","Aulacoseira distans",1,4,25.9136212624585
+14255,"Aulacoseira distans","Lower Blauvelt Lake",40.99913,-74.228418,"Neotoma","Neotoma_22297","22297","Aulacoseira distans",1,1,25.7206208425721
+11836,"Aulacoseira distans","Peskawa Lake",44.314254,-65.367186,"Neotoma","Neotoma_17957 | Neotoma_17915","17957 | 17915","Aulacoseira distans",2,24,25.6578947368421
+16599,"Aulacoseira distans","Panther Lake",43.328696,-75.91067,"Neotoma","Neotoma_26228","26228","Melosira distans",1,4,25
+11803,"Aulacoseira distans","Cradle Lake",46.72901,-60.43444,"Neotoma","Neotoma_17961 | Neotoma_17877","17961 | 17877","Aulacoseira distans",2,20,23.841059602649
+11914,"Aulacoseira distans","Bisset Lake",44.65388,-63.46982,"Neotoma","Neotoma_18071","18071","Aulacoseira distans",1,1,23.8372093023256
+14223,"Aulacoseira distans","Lake Arnold",44.130838,-73.94417,"Neotoma","Neotoma_22240","22240","Melosira distans",1,10,23.4666666666667
+24494,"Aulacoseira distans","St. John L.",43.44214,-74.061392,"Neotoma","Neotoma_52009","52009","Melosira distans | Melosira distans var. 2 PIRLA",1,2,23.4
+11812,"Aulacoseira distans","Warren Lake",46.713214,-60.39799,"Neotoma","Neotoma_17960 | Neotoma_17887","17960 | 17887","Aulacoseira distans",2,23,23.202614379085
+11832,"Aulacoseira distans","Kejimkujik Lake",44.364888,-65.257588,"Neotoma","Neotoma_17910","17910","Aulacoseira distans",1,2,22.8758169934641
+11795,"Aulacoseira distans","Hirtle Lake",44.468204,-64.75522,"Neotoma","Neotoma_17864","17864","Aulacoseira distans",1,3,22.265625
+14260,"Aulacoseira distans","Brooktrout Lake",43.602338,-74.664896,"Neotoma","Neotoma_22308","22308","Aulacoseira distans",1,12,20.1277955271566
+14284,"Aulacoseira distans","Forest Lake",43.821598,-70.330128,"Neotoma","Neotoma_22362","22362","Aulacoseira distans",1,6,20.0657894736842
+30416,"Aulacoseira distans","North Pipe Lake",45.530616,-92.200652,"Neotoma","Neotoma_57599","57599","Aulacoseira distans",1,8,19.4581280788177
+26236,"Aulacoseira distans","Blenheim Gilboa Rese.",42.443,-74.4552,"Neotoma","Neotoma_49036","49036","Melosira distans vars.",1,2,18.3752417794971
+14087,"Aulacoseira distans","Mountaintop Lake",46.927086,-80.891158,"Neotoma","Neotoma_21949","21949","Aulacoseira distans",1,21,17.9153094462541
+11847,"Aulacoseira distans","Two Island Lake",46.658916,-60.587604,"Neotoma","Neotoma_17936","17936","Aulacoseira distans",1,4,17.7966101694915
+23311,"Aulacoseira distans","Camp Lake",45.95096,-99.13645,"Neotoma","Neotoma_40132","40132","Aulacoseira distans",1,1,17.7350427350427
+11848,"Aulacoseira distans","Dundas (Lake 4)",46.711056,-60.5411,"Neotoma","Neotoma_17938 | Neotoma_17962","17938 | 17962","Aulacoseira distans",2,14,17.1428571428571
+11834,"Aulacoseira distans","Mountain Lake",44.322468,-65.260874,"Neotoma","Neotoma_17912","17912","Aulacoseira distans",1,4,17.056856187291
+11853,"Aulacoseira distans","Little Wiles Lake",44.400638,-64.644096,"Neotoma","Neotoma_17943","17943","Aulacoseira distans",1,3,16.8650793650794
+11833,"Aulacoseira distans","Loon Lake",44.319728,-65.191124,"Neotoma","Neotoma_17911","17911","Aulacoseira distans",1,3,16.8316831683168
+11831,"Aulacoseira distans","Frozen Ocean",44.446818,-65.349356,"Neotoma","Neotoma_17908","17908","Aulacoseira distans",1,4,16.7721518987342
+11860,"Aulacoseira distans","Frozen Ocean Lake",44.44697,-65.349478,"Neotoma","Neotoma_17956","17956","Aulacoseira distans",1,15,16.7721518987342
+13278,"Aulacoseira distans","Wishart Lake",47.048778,-84.39917,"Neotoma","Neotoma_19788","19788","Aulacoseira distans",1,75,16.600790513834
+14244,"Aulacoseira distans","Mirror Lake",45.177952,-117.310664,"Neotoma","Neotoma_22274","22274","Aulacoseira distans",1,29,16.5829145728643
+11806,"Aulacoseira distans","Indian Lake",46.670234,-60.564646,"Neotoma","Neotoma_17881","17881","Aulacoseira distans",1,3,15.6626506024096
+11811,"Aulacoseira distans","Round Lake",46.805322,-60.50855,"Neotoma","Neotoma_17886","17886","Aulacoseira distans",1,3,15.6626506024096
+11782,"Aulacoseira distans","White Hill Lake",46.704076,-60.58256,"Neotoma","Neotoma_17889 | Neotoma_17819","17889 | 17819","Aulacoseira distans",2,13,15.6
+11893,"Aulacoseira distans","Governor Lake",44.642044,-63.70509,"Neotoma","Neotoma_18027","18027","Aulacoseira distans",1,2,15.4109589041096
+18356,"Aulacoseira distans","31-E-09",45.72,-78.35,"Neotoma","Neotoma_38887","38887","Aulacoseira distans",1,64,14.9425287356322
+17666,"Aulacoseira distans","Pigeon Lake",44.42,-78.5,"Neotoma","Neotoma_57558","57558","Aulacoseira distans",1,16,14.6401985111663
+14120,"Aulacoseira distans","Skynner Lake",46.751182,-80.856312,"Neotoma","Neotoma_22019","22019","Aulacoseira distans",1,8,14.3382352941176
+11883,"Aulacoseira distans","Frenchman Lake",44.69818,-63.57651,"Neotoma","Neotoma_18007","18007","Aulacoseira distans",1,2,14.0243902439024
+27408,"Aulacoseira distans","Schrader Pond",69.359872,-145.080086,"Neotoma","Neotoma_49223","49223","Aulacoseira distans",1,2,14
+23263,"Aulacoseira distans","August Lake",47.762276,-91.610982,"Neotoma","Neotoma_46265 | Neotoma_47466","46265 | 47466","Aulacoseira distans",2,8,13.8014527845036
+11907,"Aulacoseira distans","Springfield Lake",44.810822,-63.741114,"Neotoma","Neotoma_18057","18057","Aulacoseira distans",1,2,13.7931034482759
+11763,"Aulacoseira distans","Pebbleloggitch Lake",44.300928,-65.351754,"Neotoma","Neotoma_17772 | Neotoma_17913","17772 | 17913","Aulacoseira distans",2,17,13.6212624584718
+11777,"Aulacoseira distans","Lake of Islands",46.742226,-60.524092,"Neotoma","Neotoma_17814 | Neotoma_17937","17814 | 17937","Aulacoseira distans",2,13,13.469387755102
+24454,"Aulacoseira distans","John P.",44.112188,-74.765296,"Neotoma","Neotoma_51995","51995","Melosira distans | Melosira distans var. 2 PIRLA",1,2,13.3466135458167
+11816,"Aulacoseira distans","Brenton Lake",43.95881,-66.067654,"Neotoma","Neotoma_17893","17893","Aulacoseira distans",1,3,13.2890365448505
+30398,"Aulacoseira distans","Cameron Lake",44.54,-78.76944,"Neotoma","Neotoma_57557","57557","Aulacoseira distans",1,17,13.151364764268
+24443,"Aulacoseira distans","Dry Channel P.",44.352056,-74.436722,"Neotoma","Neotoma_51986","51986","Melosira distans",1,2,13.1474103585657
+13930,"Aulacoseira distans","Three Mile Lake",45.16667,-79.45,"Neotoma","Neotoma_21443","21443","Aulacoseira distans",1,1,13.034188034188
+14090,"Aulacoseira distans","Acid Lake",46.035438,-81.444602,"Neotoma","Neotoma_21955","21955","Aulacoseira distans",1,16,13.0097087378641
+1735,"Aulacoseira distans","Nels Lake",48.02276,-91.894766,"Neotoma","Neotoma_46275","46275","Melosira distans | Melosira distans var. 8 PIRLA | Melosira distans var. 2 PIRLA | Melosira distans var. 4 PIRLA | Melosira distans var. 8 PIRLA | Melosira distans var. 8 PIRLA | Melosira distans var. 3 PIRLA | Melosira distans var. 4 PIRLA | Melosira distans var. 8 PIRLA | Melosira distans var. 3 PIRLA | Melosira distans var. 8 PIRLA | Melosira distans var. 2 PIRLA | Melosira distans var. 3 PIRLA | Melosira distans var. 8 PIRLA | Melosira distans | Melosira distans var. 2 PIRLA | Melosira distans var. 8 PIRLA | Melosira distans | Melosira distans var. 3 PIRLA | Melosira distans var. 8 PIRLA",1,18,12.7906976744186
+14110,"Aulacoseira distans","Whirligig Lake",47.37704,-80.639024,"Neotoma","Neotoma_21995","21995","Aulacoseira distans",1,22,12.7579737335835
+11801,"Aulacoseira distans","Little Tupper Lake",44.422772,-64.96655,"Neotoma","Neotoma_17875","17875","Aulacoseira distans",1,3,12.7090301003344
+11892,"Aulacoseira distans","Frog Pond",44.625938,-63.603426,"Neotoma","Neotoma_18025","18025","Aulacoseira distans",1,1,12.5786163522013
+11819,"Aulacoseira distans","Lake George",43.991572,-66.052242,"Neotoma","Neotoma_17896","17896","Aulacoseira distans",1,2,12.5412541254125
+11830,"Aulacoseira distans","Cobrielle Lake",44.312092,-65.238064,"Neotoma","Neotoma_17907","17907","Aulacoseira distans",1,4,12.1951219512195
+11870,"Aulacoseira distans","Little Springfield",44.801162,-63.748822,"Neotoma","Neotoma_17978","17978","Aulacoseira distans",1,1,12.0754716981132
+11809,"Aulacoseira distans","Long Lake",46.811582,-60.491554,"Neotoma","Neotoma_17884","17884","Aulacoseira distans",1,3,11.986301369863
+11820,"Aulacoseira distans","Lake Jesse",44.031734,-66.009666,"Neotoma","Neotoma_17897","17897","Aulacoseira distans",1,5,11.7845117845118
+11849,"Aulacoseira distans","Dundas (Lake 3)",46.711056,-60.5411,"Neotoma","Neotoma_17939","17939","Aulacoseira distans",1,4,11.6935483870968
+11864,"Aulacoseira distans","Bayers",44.642328,-63.671504,"Neotoma","Neotoma_17966","17966","Aulacoseira distans",1,1,11.5916955017301
+14095,"Aulacoseira distans","Carlyle Lake",46.058842,-81.283276,"Neotoma","Neotoma_21965","21965","Aulacoseira distans",1,2,11.4832535885167
+26622,"Aulacoseira distans","Shoepack Lake",47.616272,-92.94049,"Neotoma","Neotoma_47449","47449","Aulacoseira distans",1,4,11.4649681528662
+13861,"Aulacoseira distans","Tule Lake [Tule Lake Sump 1]",41.912832,-121.5171,"Neotoma","Neotoma_38888","38888","Aulacoseira distans-type",1,15,11.340206185567
+11868,"Aulacoseira distans","Kinsac lake",44.825144,-63.652174,"Neotoma","Neotoma_17974","17974","Aulacoseira distans",1,1,11.3095238095238
+14085,"Aulacoseira distans","Clearwater Lake",46.37027,-81.04861,"Neotoma","Neotoma_21947","21947","Aulacoseira distans",1,11,11.2903225806452
+24489,"Aulacoseira distans","Partlow L.",44.002994,-74.834916,"Neotoma","Neotoma_52007","52007","Melosira distans",1,2,11.1332007952286
+11817,"Aulacoseira distans","Cedar Lake",44.022984,-66.114082,"Neotoma","Neotoma_17894","17894","Aulacoseira distans",1,2,11.0726643598616
+16608,"Aulacoseira distans","Sagamore Lake",43.767308,-74.620872,"Neotoma","Neotoma_26250","26250","Melosira distans",1,12,10.5
+23179,"Aulacoseira distans","Summersville Lake",38.22694,-80.85406,"Neotoma","Neotoma_39922","39922","Aulacoseira distans",1,1,10.4743083003953
+11886,"Aulacoseira distans","Shubenacadie Grand Lake",44.907122,-63.6037,"Neotoma","Neotoma_18013","18013","Aulacoseira distans",1,2,10.4519774011299
+14118,"Aulacoseira distans","Roland Lake",46.73499,-81.132894,"Neotoma","Neotoma_22015","22015","Aulacoseira distans",1,22,10.3313840155945
+36115,"Aulacoseira distans","Herman",44.78083,-68.93544,"Neotoma","Neotoma_65277","65277","Aulacoseira distans",1,4,10.3112840466926
+16574,"Aulacoseira distans","Woods L. (S.L.)",43.254086,-74.315254,"Neotoma","Neotoma_54622 | Neotoma_52017 | Neotoma_54616 | Neotoma_26000","54622 | 52017 | 54616 | 26000","Melosira distans",4,10,10.2
+14096,"Aulacoseira distans","George Lake",46.024358,-81.400708,"Neotoma","Neotoma_21967","21967","Aulacoseira distans",1,21,10.1083032490975
+13911,"Aulacoseira distans","Butternut Lake",45.964568,-90.520892,"Neotoma","Neotoma_21397","21397","Aulacoseira distans",1,6,10.0125156445557
+26630,"Aulacoseira distans","Windy Lake",47.734398,-91.078192,"Neotoma","Neotoma_47462","47462","Aulacoseira distans",1,4,9.93589743589744
+11829,"Aulacoseira distans","Channel Lake",44.42576,-65.309628,"Neotoma","Neotoma_17906","17906","Aulacoseira distans",1,3,9.91379310344828
+26234,"Aulacoseira distans","Bennett Lake",43.31528,-74.19444,"Neotoma","Neotoma_49032","49032","Melosira distans vars.",1,2,9.85130111524164
+13691,"Aulacoseira distans","Cornings Lake",44.051474,-66.082986,"Neotoma","Neotoma_20873","20873","Aulacoseira distans",1,4,9.83606557377049
+11917,"Aulacoseira distans","Morris Lake",44.64975,-63.501904,"Neotoma","Neotoma_18077","18077","Aulacoseira distans",1,1,9.81818181818182
+11871,"Aulacoseira distans","Maynard Lake",44.669936,-63.553046,"Neotoma","Neotoma_17980","17980","Aulacoseira distans",1,2,9.75
+24028,"Aulacoseira distans","Tooth Lake",48.39741,-92.642674,"Neotoma","Neotoma_47458","47458","Aulacoseira distans",1,4,9.6969696969697
+11879,"Aulacoseira distans","Thomas Lake",44.793688,-63.608438,"Neotoma","Neotoma_17999","17999","Aulacoseira distans",1,1,9.59206174200662
+11915,"Aulacoseira distans","Lake Charles",44.720002,-63.55306,"Neotoma","Neotoma_18073","18073","Aulacoseira distans",1,1,9.48275862068965
+11918,"Aulacoseira distans","Pennhorn lake",44.675018,-63.541026,"Neotoma","Neotoma_18079","18079","Aulacoseira distans",1,1,9.35412026726058
+11823,"Aulacoseira distans","Tefry Lake",43.833538,-66.04633,"Neotoma","Neotoma_17900","17900","Aulacoseira distans",1,2,9.33333333333333
+11865,"Aulacoseira distans","Bell Lake",44.674252,-63.510168,"Neotoma","Neotoma_17968","17968","Aulacoseira distans",1,1,9.22190201729107
+14091,"Aulacoseira distans","Johnnie Lake",46.093942,-81.23325,"Neotoma","Neotoma_21957","21957","Aulacoseira distans",1,1,9.21305182341651
+24438,"Aulacoseira distans","Constable P.",43.832912,-74.799182,"Neotoma","Neotoma_54620 | Neotoma_51984 | Neotoma_54614","54620 | 51984 | 54614","Melosira distans | Melosira distans | Melosira distans var. 2 PIRLA | Melosira distans | Melosira distans var. 4 PIRLA",3,5,9
+24481,"Aulacoseira distans","Zack P.",43.931614,-74.184478,"Neotoma","Neotoma_52018","52018","Melosira distans",1,2,8.58283433133733
+14102,"Aulacoseira distans","Baby Lake",46.46117,-80.86509,"Neotoma","Neotoma_21979","21979","Aulacoseira distans",1,14,8.52713178294574
+14126,"Aulacoseira distans","Clearsilver Lake",46.118022,-81.25849,"Neotoma","Neotoma_22030","22030","Aulacoseira distans",1,2,8.49420849420849
+11807,"Aulacoseira distans","John Dee Lake",46.81221,-60.520472,"Neotoma","Neotoma_17882","17882","Aulacoseira distans",1,3,8.46774193548387
+11851,"Aulacoseira distans","Bird Lake",43.971902,-65.944218,"Neotoma","Neotoma_17941","17941","Aulacoseira distans",1,3,8.46774193548387
+11901,"Aulacoseira distans","Paper Mill",44.714106,-63.69061,"Neotoma","Neotoma_18043","18043","Aulacoseira distans",1,2,8.36501901140684
+13022,"Aulacoseira distans","Slipper Lake",64.60139,-110.8353,"Neotoma","Neotoma_19310","19310","Aulacoseira distans",1,9,8.35443037974684
+24396,"Aulacoseira distans","Hall Lake",46.99493,-88.75916,"Neotoma","Neotoma_54732","54732","Aulacoseira distans",1,1,8.24742268041237
+26233,"Aulacoseira distans","Bear Pond",45.338558,-69.604178,"Neotoma","Neotoma_49031","49031","Melosira distans vars. | Melosira distans var. 1 PIRLA | Melosira distans vars.",1,1,8.16733067729084
+11821,"Aulacoseira distans","Killiams Lake",44.003726,-66.082282,"Neotoma","Neotoma_17898","17898","Aulacoseira distans",1,3,8.12720848056537
+14092,"Aulacoseira distans","Terry Lake",46.067246,-81.289778,"Neotoma","Neotoma_21959","21959","Aulacoseira distans",1,2,8.07600950118765
+14131,"Aulacoseira distans","Killarney Lake",46.061982,-81.359838,"Neotoma","Neotoma_22040","22040","Aulacoseira distans",1,2,7.9447322970639
+14094,"Aulacoseira distans","Bell Lake",46.13333,-81.19944,"Neotoma","Neotoma_21963","21963","Aulacoseira distans",1,13,7.83582089552239
+11857,"Aulacoseira distans","Rocky Lake",44.556428,-64.440646,"Neotoma","Neotoma_17949","17949","Aulacoseira distans",1,4,7.66208251473477
+24017,"Aulacoseira distans","Loiten Lake",48.524712,-92.925834,"Neotoma","Neotoma_47390","47390","Aulacoseira distans",1,1,7.30994152046784
+11900,"Aulacoseira distans","Oat Hill",44.67344,-63.5508,"Neotoma","Neotoma_18041","18041","Aulacoseira distans",1,2,7.21311475409836
+11898,"Aulacoseira distans","McCabe Lake",44.775958,-63.75639,"Neotoma","Neotoma_18037","18037","Aulacoseira distans",1,1,7.20338983050847
+14124,"Aulacoseira distans","Selwyn Lake",46.753482,-80.876972,"Neotoma","Neotoma_22026","22026","Aulacoseira distans",1,10,7.16981132075472
+11894,"Aulacoseira distans","Kearney Lake",44.694212,-63.69772,"Neotoma","Neotoma_18029","18029","Aulacoseira distans",1,2,7.11864406779661
+11919,"Aulacoseira distans","Settle Lake",44.678706,-63.505542,"Neotoma","Neotoma_18081","18081","Aulacoseira distans",1,1,7.01107011070111
+11875,"Aulacoseira distans","Soldier Lake",44.810778,-63.570208,"Neotoma","Neotoma_17988","17988","Aulacoseira distans",1,1,6.97084204018315
+18688,"Aulacoseira distans","Queer Lake",43.81361,-74.80694,"Neotoma","Neotoma_31958","31958","Melosira distans | Melosira distans | Melosira distans var. 2 PIRLA",1,16,6.9364161849711
+11873,"Aulacoseira distans","Powder Mill",44.773532,-63.612798,"Neotoma","Neotoma_17984","17984","Aulacoseira distans",1,1,6.90316395014382
+14283,"Aulacoseira distans","Swan Pond",43.518716,-70.65002,"Neotoma","Neotoma_22360","22360","Aulacoseira distans",1,4,6.89655172413793
+14038,"Aulacoseira distans","Lake of Bays",45.221998,-79.026304,"Neotoma","Neotoma_21785 | Neotoma_21783","21785 | 21783","Aulacoseira distans | Aulacoseira distans | Melosira distans var. 3 PIRLA | Aulacoseira distans | Aulacoseira distans | Melosira distans var. 2 PIRLA | Melosira distans var. 3 PIRLA",2,4,6.74698795180723
+11815,"Aulacoseira distans","Allens Lake",43.949574,-66.14703,"Neotoma","Neotoma_17892","17892","Aulacoseira distans",1,3,6.69642857142857
+17914,"Aulacoseira distans","Big Moose Lake",43.826934,-74.855136,"Neotoma","Neotoma_30178","30178","Melosira distans",1,11,6.69456066945607
+11828,"Aulacoseira distans","Beaverskin",44.306146,-65.332886,"Neotoma","Neotoma_17905","17905","Aulacoseira distans",1,4,6.62251655629139
+11861,"Aulacoseira distans","Beaverskin Lake",44.306126,-65.332958,"Neotoma","Neotoma_17958","17958","Aulacoseira distans",1,4,6.62251655629139
+14136,"Aulacoseira distans","Norway Lake",46.085386,-81.311934,"Neotoma","Neotoma_22054","22054","Aulacoseira distans",1,1,6.6
+14184,"Aulacoseira distans","ELA 378 (Enache et al 2011)",49.710386,-93.777034,"Neotoma","Neotoma_22157","22157","Aulacoseira distans",1,1,6.5625
+11880,"Aulacoseira distans","Whimsical Lake",44.624586,-63.61005,"Neotoma","Neotoma_18001","18001","Aulacoseira distans",1,1,6.54719592951476
+18899,"Aulacoseira distans","Mud Pond",44.63055,-68.09388,"Neotoma","Neotoma_32492","32492","Melosira distans | Melosira distans | Melosira distans vars.",1,7,6.5
+11867,"Aulacoseira distans","Frasers Lake",44.673206,-63.76475,"Neotoma","Neotoma_17972","17972","Aulacoseira distans",1,2,6.4228367528992
+24492,"Aulacoseira distans","South L. (East Branch)",43.510528,-74.894092,"Neotoma","Neotoma_54621 | Neotoma_52008 | Neotoma_54615","54621 | 52008 | 54615","Melosira distans",3,4,6.4
+11895,"Aulacoseira distans","Lemont Lake",44.689212,-63.523302,"Neotoma","Neotoma_18031","18031","Aulacoseira distans",1,2,6.2992125984252
+26628,"Aulacoseira distans","Turtle Lake",45.096878,-93.139732,"Neotoma","Neotoma_47459","47459","Aulacoseira distans",1,1,6.22950819672131
+14178,"Aulacoseira distans","Wasp Lake [ELA 165 (Enache et al 2011)]",49.623716,-93.812294,"Neotoma","Neotoma_22147","22147","Aulacoseira distans",1,1,6.21468926553672
+11822,"Aulacoseira distans","Tedford Lake",44.10191,-66.014406,"Neotoma","Neotoma_17899","17899","Aulacoseira distans",1,3,6.16438356164384
+24016,"Aulacoseira distans","Locator Lake",48.538024,-93.007954,"Neotoma","Neotoma_47389","47389","Aulacoseira distans",1,4,5.97826086956522
+11903,"Aulacoseira distans","Rocky Lake",44.748946,-63.628316,"Neotoma","Neotoma_18047","18047","Aulacoseira distans",1,2,5.96153846153846
+11920,"Aulacoseira distans","Sheldrake lake",44.675856,-63.798406,"Neotoma","Neotoma_18083","18083","Aulacoseira distans",1,1,5.88235294117647
+13884,"Aulacoseira distans","North Raft Lake",54.5343,-84.7561,"Neotoma","Neotoma_21293","21293","Aulacoseira distans",1,2,5.88235294117647
+23984,"Aulacoseira distans","Richie",48.040358,-88.70317,"Neotoma","Neotoma_52898","52898","Aulacoseira distans",1,4,5.8455114822547
+26528,"Aulacoseira distans","Lake 45",36.936714,-118.421358,"Neotoma","Neotoma_46256","46256","Melosira distans",1,3,5.81395348837209
+24482,"Aulacoseira distans","Mud L. (S.L.)",43.341006,-74.454016,"Neotoma","Neotoma_52002","52002","Melosira distans",1,1,5.78842315369261
+11869,"Aulacoseira distans","Little Albro Lake",44.683888,-63.577296,"Neotoma","Neotoma_17976","17976","Aulacoseira distans",1,1,5.78446909667195
+24185,"Aulacoseira distans","Cone P.",43.903222,-71.604876,"Neotoma","Neotoma_42553 | Neotoma_42650","42553 | 42650","Melosira distans",2,5,5.76519916142558
+11887,"Aulacoseira distans","Topsail Lake",44.692948,-63.516748,"Neotoma","Neotoma_18015","18015","Aulacoseira distans",1,1,5.68720379146919
+11888,"Aulacoseira distans","Big Albro Lake",44.688732,-63.577348,"Neotoma","Neotoma_18017","18017","Aulacoseira distans",1,2,5.62770562770563
+24476,"Aulacoseira distans","Wilmurt L.",43.430232,-74.725748,"Neotoma","Neotoma_52014","52014","Melosira distans",1,2,5.57768924302789
+24448,"Aulacoseira distans","Grass P. (H.W.)",43.691494,-75.063574,"Neotoma","Neotoma_51991","51991","Melosira distans",1,1,5.55555555555556
+13917,"Aulacoseira distans","Whitefish Lake",46.211956,-91.874782,"Neotoma","Neotoma_21409","21409","Aulacoseira distans",1,2,5.52763819095477
+14125,"Aulacoseira distans","Chain Lake",46.142734,-81.211106,"Neotoma","Neotoma_22028","22028","Aulacoseira distans",1,1,5.49019607843137
+36116,"Aulacoseira distans","Highland",43.77358,-70.35684,"Neotoma","Neotoma_65278","65278","Aulacoseira distans",1,10,5.47945205479452
+23289,"Aulacoseira distans","Blanchard Lake",48.00822,-116.97012,"Neotoma","Neotoma_40104","40104","Aulacoseira distans",1,1,5.46448087431694
+36436,"Aulacoseira distans","Notched Pond",43.95266,-70.37812,"Neotoma","Neotoma_65255","65255","Aulacoseira distans",1,1,5.34351145038168
+14115,"Aulacoseira distans","Cache Lake",46.80327,-80.942574,"Neotoma","Neotoma_22007","22007","Aulacoseira distans",1,7,5.32319391634981
+36442,"Aulacoseira distans","Lake Pennesseewassee",44.22476,-70.57848,"Neotoma","Neotoma_65279","65279","Aulacoseira distans",1,7,5.28169014084507
+14135,"Aulacoseira distans","Nellie Lake",46.132692,-81.53349,"Neotoma","Neotoma_22052","22052","Aulacoseira distans",1,5,5.22979397781299
+11810,"Aulacoseira distans","Mica Hill Lake",46.813538,-60.442706,"Neotoma","Neotoma_17885","17885","Aulacoseira distans",1,2,5.22875816993464
+14188,"Aulacoseira distans","ELA 470 (Enache et al 2011)",49.658724,-93.734952,"Neotoma","Neotoma_22165","22165","Aulacoseira distans",1,1,5.21327014218009
+24462,"Aulacoseira distans","Long P. (K.R.)",43.639074,-74.290066,"Neotoma","Neotoma_51997","51997","Melosira distans",1,2,5.15873015873016
+26550,"Aulacoseira distans","Blue Lake",39.35628,-120.633386,"Neotoma","Neotoma_46250","46250","Melosira distans",1,4,5.14285714285714
+14117,"Aulacoseira distans","Ella Lake",46.703986,-80.867136,"Neotoma","Neotoma_22013 | Neotoma_22011","22013 | 22011","Aulacoseira distans",2,25,5.0709939148073
+14106,"Aulacoseira distans","Round Lake",46.32379,-81.200776,"Neotoma","Neotoma_21987","21987","Aulacoseira distans",1,4,5.02793296089385
+10330,"Aulacoseira distans","Lac du Sommet",47.71494,-70.66531,"Neotoma","Neotoma_15692","15692","Aulacoseira distans var. Quebec | Aulacoseira distans",1,18,5
+14127,"Aulacoseira distans","David Lake",46.139424,-81.29368,"Neotoma","Neotoma_22032","22032","Aulacoseira distans",1,2,4.96688741721854
+13316,"Aulacoseira distans","Odell Lake",43.565164,-122.017182,"Neotoma","Neotoma_19870","19870","Aulacoseira distans",1,8,4.81203007518797
+34647,"Aulacoseira distans","Androscoggin",44.32417,-70.085,"Neotoma","Neotoma_65274","65274","Aulacoseira distans",1,2,4.80769230769231
+14100,"Aulacoseira distans","Labelle Lake",46.698046,-81.116732,"Neotoma","Neotoma_21975","21975","Aulacoseira distans",1,5,4.78468899521531
+24485,"Aulacoseira distans","Nine Corner L.",43.19416,-74.552938,"Neotoma","Neotoma_52006","52006","Melosira distans | Melosira distans | Melosira distans var. 2 PIRLA",1,1,4.7808764940239
+14089,"Aulacoseira distans","Chiniguchi Lake",46.93129,-80.70862,"Neotoma","Neotoma_21953","21953","Aulacoseira distans",1,4,4.74516695957821
+18872,"Aulacoseira distans","Little Long P.",44.637058,-68.078654,"Neotoma","Neotoma_32438","32438","Melosira distans",1,9,4.71544715447155
+720,"Aulacoseira distans","Deep Lake",43.618196,-74.66325,"Neotoma","Neotoma_30735","30735","Melosira distans",1,2,4.67289719626168
+11863,"Aulacoseira distans","Anderson Lake",44.726192,-63.621412,"Neotoma","Neotoma_17964","17964","Aulacoseira distans",1,1,4.65116279069767
+11913,"Aulacoseira distans","Lake Banook",44.678496,-63.5573,"Neotoma","Neotoma_18069","18069","Aulacoseira distans",1,1,4.60526315789474
+36413,"Aulacoseira distans","Annabessacook",44.26965,-69.98072,"Neotoma","Neotoma_65218","65218","Aulacoseira distans",1,2,4.56204379562044
+14088,"Aulacoseira distans","Wavy Lake",46.288594,-81.100146,"Neotoma","Neotoma_21951","21951","Aulacoseira distans",1,1,4.56081081081081
+14129,"Aulacoseira distans","Ishmael Lake",46.110548,-81.593486,"Neotoma","Neotoma_22036","22036","Aulacoseira distans",1,1,4.42307692307692
+26226,"Aulacoseira distans","Alexandra Lake",43.290304,-74.169656,"Neotoma","Neotoma_49024","49024","Melosira distans vars.",1,1,4.41458733205374
+14123,"Aulacoseira distans","Little Amy Lake",46.709314,-80.83867,"Neotoma","Neotoma_22024","22024","Aulacoseira distans",1,13,4.38095238095238
+11904,"Aulacoseira distans","Sandy Lake",44.732654,-63.70311,"Neotoma","Neotoma_18049","18049","Aulacoseira distans",1,1,4.32252701579385
+844,"Aulacoseira distans","Giles",41.376234,-75.09431,"Neotoma","Neotoma_45653","45653","Aulacoseira distans | Melosira distans var. 9 PIRLA | Aulacoseira distans",1,2,4.25531914893617
+14108,"Aulacoseira distans","Aurora Whitepine Lake",47.38208,-80.63068,"Neotoma","Neotoma_21991","21991","Aulacoseira distans",1,5,4.25531914893617
+14192,"Aulacoseira distans","ELA 629 (Enache et al 2011)",49.747996,-93.834946,"Neotoma","Neotoma_22173","22173","Aulacoseira distans",1,1,4.21286031042129
+11912,"Aulacoseira distans","Williams Lake",44.618554,-63.598894,"Neotoma","Neotoma_18067","18067","Aulacoseira distans",1,1,4.18006430868167
+26602,"Aulacoseira distans","Dyers Lake",47.528,-90.981686,"Neotoma","Neotoma_47284","47284","Aulacoseira distans",1,2,4.18006430868167
+11896,"Aulacoseira distans","Long Lake",44.62136,-63.644522,"Neotoma","Neotoma_18033","18033","Aulacoseira distans",1,1,4.16666666666667
+14158,"Aulacoseira distans","Boundary Lake [ELA 240 (Enache et al 2011)]",49.65288,-93.72754,"Neotoma","Neotoma_22108","22108","Aulacoseira distans",1,1,4.08653846153846
+740,"Aulacoseira distans","Nick's Pond",44.142018,-74.968172,"Neotoma","Neotoma_52005","52005","Melosira distans",1,1,4.07185628742515
+13957,"Aulacoseira distans","Harp Lake",45.38333,-78.13333,"Neotoma","Neotoma_21497","21497","Melosira distans 7 PIRLA | Aulacoseira distans | Melosira distans var. 2 PIRLA",1,1,4.03800475059382
+14097,"Aulacoseira distans","Tyson Lake",46.117644,-81.119408,"Neotoma","Neotoma_21969","21969","Aulacoseira distans",1,2,3.92156862745098
+14114,"Aulacoseira distans","Blue Lake",46.675708,-80.825732,"Neotoma","Neotoma_22003 | Neotoma_22005","22003 | 22005","Aulacoseira distans",2,6,3.88888888888889
+30641,"Aulacoseira distans","Blackwell Lake",50.41028,-120.06722,"Neotoma","Neotoma_58092","58092","Aulacoseira distans",1,2,3.80047505938242
+23992,"Aulacoseira distans","Grand Sable",46.633118,-86.042224,"Neotoma","Neotoma_52415","52415","Aulacoseira distans",1,5,3.73831775700935
+14093,"Aulacoseira distans","Swan Lake",46.365514,-81.065778,"Neotoma","Neotoma_21961","21961","Aulacoseira distans",1,6,3.6741214057508
+36248,"Aulacoseira distans","Sabattus",44.16967,-70.09641,"Neotoma","Neotoma_65256","65256","Aulacoseira distans",1,2,3.6697247706422
+14173,"Aulacoseira distans","ELA 131 (Enache et al 2011)",49.649438,-93.847176,"Neotoma","Neotoma_22137","22137","Aulacoseira distans",1,1,3.65853658536585
+41691,"Aulacoseira distans","Lake Hazen",81.767114,-71.51308,"Neotoma","Neotoma_74108","74108","Aulacoseira distans",1,2,3.63636363636364
+13935,"Aulacoseira distans","Boshkung Lake",45.06667,-78.73333,"Neotoma","Neotoma_21453","21453","Aulacoseira distans | Melosira distans humilis | Aulacoseira distans | Melosira distans var. 3 PIRLA",1,2,3.60576923076923
+24436,"Aulacoseira distans","Cheney Pond",43.877326,-74.162748,"Neotoma","Neotoma_54613","54613","Melosira distans",1,2,3.57142857142857
+13929,"Aulacoseira distans","Twelve Mile Lake",45.01667,-78.71667,"Neotoma","Neotoma_21441","21441","Aulacoseira distans | Aulacoseira distans | Melosira distans humilis",1,1,3.56294536817102
+11874,"Aulacoseira distans","Russell Lake",44.662292,-63.526242,"Neotoma","Neotoma_17986","17986","Aulacoseira distans",1,1,3.52112676056338
+14116,"Aulacoseira distans","Crab Lake",46.678818,-81.537156,"Neotoma","Neotoma_22009","22009","Aulacoseira distans",1,3,3.5
+13961,"Aulacoseira distans","Kashagawigamog North Basin",45.01667,-78.56667,"Neotoma","Neotoma_21531","21531","Aulacoseira distans | Melosira distans var. 3 PIRLA",1,1,3.42298288508557
+14181,"Aulacoseira distans","ELA 257 (Enache et al 2011)",49.686958,-93.819458,"Neotoma","Neotoma_22151","22151","Aulacoseira distans",1,1,3.39805825242718
+14130,"Aulacoseira distans","Kakakise Lake",46.055932,-81.32756,"Neotoma","Neotoma_22038","22038","Aulacoseira distans",1,2,3.38541666666667
+14008,"Aulacoseira distans","Kushog Lake",45.08767,-78.81045,"Neotoma","Neotoma_21718","21718","Aulacoseira distans",1,1,3.37837837837838
+36260,"Aulacoseira distans","China Lake",44.43025,-69.54731,"Neotoma","Neotoma_65221","65221","Aulacoseira distans",1,1,3.37301587301587
+14174,"Aulacoseira distans","ELA 132 (Enache et al 2011)",49.650366,-93.8519,"Neotoma","Neotoma_22139","22139","Aulacoseira distans",1,1,3.34075723830735
+36420,"Aulacoseira distans","Cochnewagon ",44.23078,-70.04458,"Neotoma","Neotoma_65229","65229","Aulacoseira distans",1,1,3.33988212180747
+26479,"Aulacoseira distans","Unity Pond",44.64679,-69.3323,"Neotoma","Neotoma_65259","65259","Aulacoseira distans",1,2,3.3195020746888
+11897,"Aulacoseira distans","Loon Lake",44.702268,-63.506222,"Neotoma","Neotoma_18035","18035","Aulacoseira distans",1,1,3.31384015594542
+14140,"Aulacoseira distans","Brady Lake",58.322072,-136.681838,"Neotoma","Neotoma_22063","22063","Melosira distans",1,3,3.28227571115974
+14119,"Aulacoseira distans","Seal Lake",46.708638,-81.385004,"Neotoma","Neotoma_22017","22017","Aulacoseira distans",1,2,3.26923076923077
+17640,"Aulacoseira distans","Stony Lake",44.54694,-78.13667,"Neotoma","Neotoma_57559","57559","Aulacoseira distans",1,1,3.23383084577114
+11859,"Aulacoseira distans","Halfbrook",44.9475,-62.465,"Neotoma","Neotoma_17951","17951","Aulacoseira distans",1,2,3.2
+11902,"Aulacoseira distans","Powers Pond",44.57625,-63.55514,"Neotoma","Neotoma_18045","18045","Aulacoseira distans",1,1,3.2
+24475,"Aulacoseira distans","Whitney L.",43.588534,-74.564462,"Neotoma","Neotoma_52013","52013","Melosira distans",1,1,3.18091451292247
+11899,"Aulacoseira distans","Lake MicMac",44.690078,-63.55514,"Neotoma","Neotoma_18039","18039","Aulacoseira distans",1,1,3.16455696202532
+1466,"Aulacoseira distans","Threemile Pond",44.36732,-69.60442,"Neotoma","Neotoma_65237","65237","Aulacoseira distans",1,2,3.14685314685315
+11858,"Aulacoseira distans","Deer Lake",46.764352,-60.630822,"Neotoma","Neotoma_17952","17952","Aulacoseira distans",1,2,3.03030303030303
+26231,"Aulacoseira distans","Bartlett Pond",46.5555,-68.8708,"Neotoma","Neotoma_49029","49029","Melosira distans vars.",1,1,3.01418439716312
+36313,"Aulacoseira distans","Long Pond",45.39801,-68.41416,"Neotoma","Neotoma_65263","65263","Aulacoseira distans",1,1,3.00187617260788
+919,"Aulacoseira distans","Lake Wappapello",36.97055,-90.35313,"Neotoma","Neotoma_39762","39762","Aulacoseira distans",1,1,2.9940119760479
+14027,"Aulacoseira distans","Soyer's Lake",45.022194,-78.616756,"Neotoma","Neotoma_21760","21760","Aulacoseira distans | Aulacoseira distans | Melosira distans var. 3 PIRLA",1,1,2.96610169491525
+26548,"Aulacoseira distans","West Pond",43.811082,-74.879906,"Neotoma","Neotoma_46228","46228","Melosira distans | Melosira distans | Melosira distans var. 3 PIRLA | Melosira distans var. 3 PIRLA",1,1,2.95748613678373
+14019,"Aulacoseira distans","Lake Muskoka, Muskoka Bay",44.934034,-79.406434,"Neotoma","Neotoma_21742","21742","Aulacoseira distans",1,1,2.92792792792793
+23196,"Aulacoseira distans","Twin Reservoir",48.75289,-109.24169,"Neotoma","Neotoma_39939","39939","Aulacoseira distans",1,1,2.92397660818713
+41743,"Aulacoseira distans","Great Slave Lake-West Basin",61.235592,-115.323298,"Neotoma","Neotoma_74116","74116","Aulacoseira distans",1,1,2.9126213592233
+14121,"Aulacoseira distans","Waddell Lake",46.73627,-80.872712,"Neotoma","Neotoma_22021","22021","Aulacoseira distans",1,1,2.89017341040462
+24026,"Aulacoseira distans","Ryan",48.517774,-92.707768,"Neotoma","Neotoma_52937","52937","Aulacoseira distans",1,2,2.86343612334802
+14023,"Aulacoseira distans","Red Chalk Lake",45.18907,-78.948172,"Neotoma","Neotoma_21750","21750","Aulacoseira distans",1,1,2.7906976744186
+24465,"Aulacoseira distans","Middle South P.",43.990244,-75.018946,"Neotoma","Neotoma_51999","51999","Melosira distans | Melosira distans var. 2 PIRLA",1,1,2.78884462151394
+205,"Aulacoseira distans","Andrus Lake",46.701316,-85.03964,"Neotoma","Neotoma_46241","46241","Melosira distans | Melosira distans | Melosira distans var. 4 PIRLA | Melosira distans var. 3 PIRLA",1,1,2.76134122287968
+18865,"Aulacoseira distans","Haystack Pond",42.917566,-72.916894,"Neotoma","Neotoma_32410","32410","Melosira distans | Melosira distans vars. | Melosira distans",1,1,2.75526742301459
+14183,"Aulacoseira distans","ELA 377 (Enache et al 2011)",49.720284,-93.777976,"Neotoma","Neotoma_22155","22155","Aulacoseira distans",1,1,2.70935960591133
+14098,"Aulacoseira distans","Whitepine Lake",47.28087,-80.832678,"Neotoma","Neotoma_21971","21971","Aulacoseira distans",1,2,2.65060240963855
+14137,"Aulacoseira distans","O.S.A. Lake",46.05253,-81.409478,"Neotoma","Neotoma_22056","22056","Aulacoseira distans",1,1,2.63653483992467
+11885,"Aulacoseira distans","Second Chain Lake",44.779972,-63.655136,"Neotoma","Neotoma_18011","18011","Aulacoseira distans",1,1,2.57731958762887
+26529,"Aulacoseira distans","Lake 5",36.536986,-118.557028,"Neotoma","Neotoma_46255","46255","Melosira distans",1,1,2.55941499085923
+36416,"Aulacoseira distans","Chickawaukie Pond",44.14139,-69.11364,"Neotoma","Neotoma_65219","65219","Aulacoseira distans",1,1,2.51937984496124
+14021,"Aulacoseira distans","Oblong Lake",45.177106,-78.436632,"Neotoma","Neotoma_21746","21746","Aulacoseira distans",1,1,2.51716247139588
+10330,"Aulacoseira humilis","Lac du Sommet",47.71494,-70.66531,"Neotoma","Neotoma_15692","15692","Aulacoseira distans var. humilis",1,68,21.52466367713
+26226,"Aulacoseira humilis","Alexandra Lake",43.290304,-74.169656,"Neotoma","Neotoma_49024","49024","Melosira distans var. humilis",1,1,4.04929577464789
+24385,"Aulacoseira humilis","Big Reed Pond",46.35278,-69.0575,"Neotoma","Neotoma_49033","49033","Melosira distans var. humilis",1,1,3.7109375
+23990,"Aulacoseira humilis","Beaver_PIRO",46.566032,-86.34461,"Neotoma","Neotoma_52412","52412","Aulacoseira humilis",1,1,2.53623188405797
+23185,"Aulacoseira laevissima","Tempe Lakes",33.37648,-111.9196,"Neotoma","Neotoma_39928","39928","Aulacoseira laevissima",1,1,40.2390438247012
+23084,"Aulacoseira laevissima","Mott Lake",35.05246,-79.20867,"Neotoma","Neotoma_39822","39822","Aulacoseira laevissima",1,1,18
+13725,"Aulacoseira laevissima","Lake Bistineau",32.40169,-93.387,"Neotoma","Neotoma_39687","39687","Aulacoseira laevissima",1,1,13.3333333333333
+23202,"Aulacoseira laevissima","Vernon Lake",30.24052,-96.81148,"Neotoma","Neotoma_39946","39946","Aulacoseira laevissima",1,1,13.2
+24415,"Aulacoseira nivalis","Island Lake",46.41951,-124.0355,"Neotoma","Neotoma_50279","50279","Aulacoseira pfaffiana",1,1,33.6666666666667
+11803,"Aulacoseira nivalis","Cradle Lake",46.72901,-60.43444,"Neotoma","Neotoma_17961 | Neotoma_17877","17961 | 17877","Aulacoseira distans var. nivalis",2,22,32.1192052980132
+26528,"Aulacoseira nivalis","Lake 45",36.936714,-118.421358,"Neotoma","Neotoma_46256","46256","Melosira distans var. nivalis",1,20,31.0891089108911
+23335,"Aulacoseira nivalis","Crystal Lake",28.02626,-81.90969,"Neotoma","Neotoma_40161","40161","Aulacoseira pfaffiana",1,1,29.951690821256
+24485,"Aulacoseira nivalis","Nine Corner L.",43.19416,-74.552938,"Neotoma","Neotoma_52006","52006","Melosira distans var. nivalis",1,1,23.1075697211155
+23074,"Aulacoseira nivalis","Millwood Lake",33.72025,-94.00429,"Neotoma","Neotoma_39812","39812","Aulacoseira pfaffiana",1,1,21.8
+14260,"Aulacoseira nivalis","Brooktrout Lake",43.602338,-74.664896,"Neotoma","Neotoma_22308","22308","Aulacoseira distans var. nivalis",1,7,19.6923076923077
+14255,"Aulacoseira nivalis","Lower Blauvelt Lake",40.99913,-74.228418,"Neotoma","Neotoma_22297","22297","Aulacoseira pfaffiana | Aulacoseira distans var. nivalis",1,2,18.2481751824818
+11827,"Aulacoseira nivalis","Big Dam Lake West",44.4592,-65.29302,"Neotoma","Neotoma_17904 | Neotoma_17954","17904 | 17954","Aulacoseira distans var. nivalis",2,4,15.7894736842105
+14099,"Aulacoseira nivalis","Whitson Lake",46.576958,-80.984686,"Neotoma","Neotoma_21973","21973","Aulacoseira distans var. nivalis",1,19,12.7314814814815
+14096,"Aulacoseira nivalis","George Lake",46.024358,-81.400708,"Neotoma","Neotoma_21967","21967","Aulacoseira distans var. nivalis",1,25,11.6009280742459
+11849,"Aulacoseira nivalis","Dundas (Lake 3)",46.711056,-60.5411,"Neotoma","Neotoma_17939","17939","Aulacoseira distans var. nivalis",1,4,11.2903225806452
+24416,"Aulacoseira nivalis","Island Pond",43.17766,-72.06616,"Neotoma","Neotoma_54756","54756","Aulacoseira pfaffiana",1,1,11.2871287128713
+14105,"Aulacoseira nivalis","Middle Lake",46.437104,-81.02591,"Neotoma","Neotoma_21985","21985","Aulacoseira distans var. nivalis",1,5,11.0759493670886
+1669,"Aulacoseira nivalis","McNearney Lake",46.426206,-84.95451,"Neotoma","Neotoma_46263 | Neotoma_46274 | Neotoma_46273","46263 | 46274 | 46273","Melosira distans var. nivalis",3,13,10.7569721115538
+23230,"Aulacoseira nivalis","Willow Reservoir",45.70558,-89.89123,"Neotoma","Neotoma_39976","39976","Aulacoseira distans var. nivalis",1,1,10.0970873786408
+11802,"Aulacoseira nivalis","Branch Pond",46.741216,-60.456702,"Neotoma","Neotoma_17876","17876","Aulacoseira distans var. nivalis",1,3,9.765625
+14207,"Aulacoseira nivalis","Eunice Lake",46.954978,-121.878666,"Neotoma","Neotoma_22209","22209","Aulacoseira distans var. nivalis",1,2,9.2
+14209,"Aulacoseira nivalis","Lower Thornton Lake",48.683582,-121.328694,"Neotoma","Neotoma_22213","22213","Aulacoseira distans var. nivalis",1,2,9.2
+11848,"Aulacoseira nivalis","Dundas (Lake 4)",46.711056,-60.5411,"Neotoma","Neotoma_17962 | Neotoma_17938","17962 | 17938","Aulacoseira distans var. nivalis",2,15,9
+14110,"Aulacoseira nivalis","Whirligig Lake",47.37704,-80.639024,"Neotoma","Neotoma_21995","21995","Aulacoseira distans var. nivalis",1,21,8.82352941176471
+13692,"Aulacoseira nivalis","Gull Lake",46.688586,-60.541344,"Neotoma","Neotoma_20874","20874","Aulacoseira distans var. nivalis",1,3,8.8
+14094,"Aulacoseira nivalis","Bell Lake",46.13333,-81.19944,"Neotoma","Neotoma_21963","21963","Aulacoseira distans var. nivalis",1,15,8.61759425493716
+23263,"Aulacoseira nivalis","August Lake",47.762276,-91.610982,"Neotoma","Neotoma_46265 | Neotoma_47466","46265 | 47466","Aulacoseira pfaffiana",2,2,7.92079207920792
+11830,"Aulacoseira nivalis","Cobrielle Lake",44.312092,-65.238064,"Neotoma","Neotoma_17907","17907","Aulacoseira distans var. nivalis",1,4,7.75510204081633
+11777,"Aulacoseira nivalis","Lake of Islands",46.742226,-60.524092,"Neotoma","Neotoma_17814 | Neotoma_17937","17814 | 17937","Aulacoseira distans var. nivalis",2,11,7.6158940397351
+11782,"Aulacoseira nivalis","White Hill Lake",46.704076,-60.58256,"Neotoma","Neotoma_17819","17819","Aulacoseira distans var. nivalis",1,9,7.6158940397351
+27641,"Aulacoseira nivalis","West Twin Lake",42.403518,-101.44454,"Neotoma","Neotoma_49625","49625","Aulacoseira distans var. nivalis",1,17,6.88524590163934
+13282,"Aulacoseira nivalis","Copper Lake",48.917844,-121.45133,"Neotoma","Neotoma_19799","19799","Aulacoseira distans var. nivalis",1,6,6.8
+18865,"Aulacoseira nivalis","Haystack Pond",42.917566,-72.916894,"Neotoma","Neotoma_32410","32410","Melosira distans var. nivalis",1,16,6.73076923076923
+18872,"Aulacoseira nivalis","Little Long P.",44.637058,-68.078654,"Neotoma","Neotoma_32438","32438","Melosira distans var. nivalis",1,11,6.58105939004815
+11836,"Aulacoseira nivalis","Peskawa Lake",44.314254,-65.367186,"Neotoma","Neotoma_17957 | Neotoma_17915","17957 | 17915","Aulacoseira distans var. nivalis",2,14,6.57894736842105
+2219,"Aulacoseira nivalis","Lake RS29",73.13333,-95.28333,"Neotoma","Neotoma_58559","58559","Aulacoseira nivalis",1,13,6.2874251497006
+14088,"Aulacoseira nivalis","Wavy Lake",46.288594,-81.100146,"Neotoma","Neotoma_21951","21951","Aulacoseira distans var. nivalis",1,18,5.90405904059041
+27642,"Aulacoseira nivalis","East Twin Lake",42.41154,-101.432228,"Neotoma","Neotoma_49627","49627","Aulacoseira distans var. nivalis",1,1,5.88235294117647
+14103,"Aulacoseira nivalis","Clarabelle Lake",46.490806,-81.097984,"Neotoma","Neotoma_21981","21981","Aulacoseira distans var. nivalis",1,4,5.83501006036217
+23984,"Aulacoseira nivalis","Richie",48.040358,-88.70317,"Neotoma","Neotoma_52898","52898","Aulacoseira distans var. nivalis",1,4,5.76540755467197
+14108,"Aulacoseira nivalis","Aurora Whitepine Lake",47.38208,-80.63068,"Neotoma","Neotoma_21991","21991","Aulacoseira distans var. nivalis",1,15,5.53505535055351
+14142,"Aulacoseira nivalis","Harbor Point (Fritz et al 2004)",58.603254,-137.63901,"Neotoma","Neotoma_22069","22069","Aulacoseira distans var. nivalis | Aulacoseira pfaffiana | Aulacoseira distans var. nivalis",1,6,5.42452830188679
+26524,"Aulacoseira nivalis","Harriet L.",37.673062,-119.307726,"Neotoma","Neotoma_46253","46253","Melosira distans var. nivalis",1,5,5.39499036608863
+23345,"Aulacoseira nivalis","Debouille Lake",46.96596,-68.85699,"Neotoma","Neotoma_40324 | Neotoma_40242","40324 | 40242","Aulacoseira pfaffiana",2,2,5.38922155688623
+24482,"Aulacoseira nivalis","Mud L. (S.L.)",43.341006,-74.454016,"Neotoma","Neotoma_52002","52002","Melosira distans var. nivalis",1,1,5.31177829099307
+14090,"Aulacoseira nivalis","Acid Lake",46.035438,-81.444602,"Neotoma","Neotoma_21955","21955","Aulacoseira distans var. nivalis",1,12,5.11882998171846
+22956,"Aulacoseira nivalis","Lake Burnt Mills",36.84154,-76.64966,"Neotoma","Neotoma_39690","39690","Aulacoseira pfaffiana",1,1,5
+24028,"Aulacoseira nivalis","Tooth Lake",48.39741,-92.642674,"Neotoma","Neotoma_47458","47458","Aulacoseira pfaffiana",1,2,4.83870967741935
+712,"Aulacoseira nivalis","Bear Pond",44.398608,-74.287866,"Neotoma","Neotoma_29854","29854","Melosira distans var. nivalis",1,3,4.7438330170778
+23317,"Aulacoseira nivalis","Cassadaga Lake",42.34421,-79.32039,"Neotoma","Neotoma_40194","40194","Aulacoseira pfaffiana",1,1,4.7244094488189
+14124,"Aulacoseira nivalis","Selwyn Lake",46.753482,-80.876972,"Neotoma","Neotoma_22026","22026","Aulacoseira distans var. nivalis",1,5,4.69667318982387
+13283,"Aulacoseira nivalis","Snow Lake",46.757024,-121.697852,"Neotoma","Neotoma_19807","19807","Aulacoseira distans var. nivalis",1,3,4.6
+14117,"Aulacoseira nivalis","Ella Lake",46.703986,-80.867136,"Neotoma","Neotoma_22011","22011","Aulacoseira distans var. nivalis",1,8,4.56852791878173
+14087,"Aulacoseira nivalis","Mountaintop Lake",46.927086,-80.891158,"Neotoma","Neotoma_21949","21949","Aulacoseira distans var. nivalis",1,15,4.56026058631922
+14095,"Aulacoseira nivalis","Carlyle Lake",46.058842,-81.283276,"Neotoma","Neotoma_21965","21965","Aulacoseira distans var. nivalis",1,2,4.54545454545455
+14111,"Aulacoseira nivalis","Little Whitepine Lake",47.381176,-80.649602,"Neotoma","Neotoma_21997","21997","Aulacoseira distans var. nivalis",1,6,4.54545454545455
+14100,"Aulacoseira nivalis","Labelle Lake",46.698046,-81.116732,"Neotoma","Neotoma_21975","21975","Aulacoseira distans var. nivalis",1,16,4.4811320754717
+14107,"Aulacoseira nivalis","Daisy Lake",46.4549,-80.88014,"Neotoma","Neotoma_21989","21989","Aulacoseira distans var. nivalis",1,2,4.16666666666667
+13393,"Aulacoseira nivalis","Big Lake",44.373748,-121.87479,"Neotoma","Neotoma_40072","40072","Aulacoseira pfaffiana",1,1,4.15913200723327
+14115,"Aulacoseira nivalis","Cache Lake",46.80327,-80.942574,"Neotoma","Neotoma_22007","22007","Aulacoseira distans var. nivalis",1,4,4.13533834586466
+14135,"Aulacoseira nivalis","Nellie Lake",46.132692,-81.53349,"Neotoma","Neotoma_22052","22052","Aulacoseira distans var. nivalis",1,4,4.1025641025641
+23216,"Aulacoseira nivalis","Wheeler's Pond",37.1227,-77.63605,"Neotoma","Neotoma_39960","39960","Aulacoseira pfaffiana",1,1,3.98406374501992
+14109,"Aulacoseira nivalis","Bowland Lake",47.08769,-80.84229,"Neotoma","Neotoma_21993","21993","Aulacoseira distans var. nivalis",1,4,3.91389432485323
+24494,"Aulacoseira nivalis","St. John L.",43.44214,-74.061392,"Neotoma","Neotoma_52009","52009","Melosira distans var. nivalis",1,1,3.8
+14114,"Aulacoseira nivalis","Blue Lake",46.675708,-80.825732,"Neotoma","Neotoma_22005 | Neotoma_22003","22005 | 22003","Aulacoseira distans var. nivalis",2,5,3.7956204379562
+26622,"Aulacoseira nivalis","Shoepack Lake",47.616272,-92.94049,"Neotoma","Neotoma_47449","47449","Aulacoseira pfaffiana",1,2,3.7037037037037
+23378,"Aulacoseira nivalis","Fourth Debsconeag Lake",45.75282,-69.07722,"Neotoma","Neotoma_40360","40360","Aulacoseira pfaffiana",1,1,3.6
+23369,"Aulacoseira nivalis","Female Pond",45.747634,-69.224694,"Neotoma","Neotoma_40350","40350","Aulacoseira pfaffiana",1,1,3.53634577603143
+23385,"Aulacoseira nivalis","Gorton Pond",41.70545,-71.45889,"Neotoma","Neotoma_40287","40287","Aulacoseira pfaffiana",1,1,3.53634577603143
+24016,"Aulacoseira nivalis","Locator Lake",48.538024,-93.007954,"Neotoma","Neotoma_52940","52940","Aulacoseira distans var. nivalis",1,1,3.50877192982456
+23183,"Aulacoseira nivalis","Swimming River Reservoir",40.3065,-74.13721,"Neotoma","Neotoma_39926","39926","Aulacoseira pfaffiana",1,1,3.45849802371542
+11868,"Aulacoseira nivalis","Kinsac lake",44.825144,-63.652174,"Neotoma","Neotoma_17974","17974","Aulacoseira distans var. nivalis",1,1,3.2967032967033
+11763,"Aulacoseira nivalis","Pebbleloggitch Lake",44.300928,-65.351754,"Neotoma","Neotoma_17772","17772","Aulacoseira distans var. nivalis",1,2,3.25732899022801
+11806,"Aulacoseira nivalis","Indian Lake",46.670234,-60.564646,"Neotoma","Neotoma_17881","17881","Aulacoseira distans var. nivalis",1,1,3.21285140562249
+11811,"Aulacoseira nivalis","Round Lake",46.805322,-60.50855,"Neotoma","Neotoma_17886","17886","Aulacoseira distans var. nivalis",1,1,3.21285140562249
+11920,"Aulacoseira nivalis","Sheldrake lake",44.675856,-63.798406,"Neotoma","Neotoma_18083","18083","Aulacoseira distans var. nivalis",1,1,3.20855614973262
+24497,"Aulacoseira nivalis","Trout L. (P.L.)",43.346716,-74.71407,"Neotoma","Neotoma_52011","52011","Melosira distans var. nivalis",1,1,3.1936127744511
+14106,"Aulacoseira nivalis","Round Lake",46.32379,-81.200776,"Neotoma","Neotoma_21987","21987","Aulacoseira distans var. nivalis",1,1,2.8735632183908
+23015,"Aulacoseira nivalis","Lake Rim",35.03252,-79.04178,"Neotoma","Neotoma_39752","39752","Aulacoseira pfaffiana",1,1,2.8
+14116,"Aulacoseira nivalis","Crab Lake",46.678818,-81.537156,"Neotoma","Neotoma_22009","22009","Aulacoseira distans var. nivalis",1,2,2.76564774381368
+13022,"Aulacoseira nivalis","Slipper Lake",64.60139,-110.8353,"Neotoma","Neotoma_19310","19310","Aulacoseira distans var. nivalis",1,1,2.75862068965517
+18688,"Aulacoseira nivalis","Queer Lake",43.81361,-74.80694,"Neotoma","Neotoma_31958","31958","Melosira distans var. nivalis",1,1,2.734375
+26529,"Aulacoseira nivalis","Lake 5",36.536986,-118.557028,"Neotoma","Neotoma_46255","46255","Melosira distans var. nivalis",1,1,2.71317829457364
+26233,"Aulacoseira nivalis","Bear Pond",45.338558,-69.604178,"Neotoma","Neotoma_49031","49031","Melosira distans var. nivalis",1,1,2.58964143426295
+22995,"Aulacoseira nivalis","Lake Natahala",35.16783,-83.66709,"Neotoma","Neotoma_39730","39730","Aulacoseira pfaffiana",1,1,2.55905511811024
+24420,"Aulacoseira nivalis","Kettle Brook Reservoir #1",42.25856,-71.89176,"Neotoma","Neotoma_54761","54761","Aulacoseira pfaffiana",1,1,2.54901960784314
+14140,"Aulacoseira nivalis","Brady Lake",58.322072,-136.681838,"Neotoma","Neotoma_22063","22063","Melosira distans var. nivalis | Aulacoseira pfaffiana | Aulacoseira pfaffiana | Melosira distans var. nivalis",1,1,2.50569476082005
+10330,"Aulacoseira nivaloides","Lac du Sommet",47.71494,-70.66531,"Neotoma","Neotoma_15692","15692","Aulacoseira distans var. nivaloides",1,93,46.9090909090909
+26528,"Aulacoseira nivaloides","Lake 45",36.936714,-118.421358,"Neotoma","Neotoma_46256","46256","Melosira distans var. nivaloides",1,3,25.8188824662813
+13883,"Aulacoseira nivaloides","Hawley Lake",54.5269,-84.6288,"Neotoma","Neotoma_21291","21291","Aulacoseira distans var. nivaloides",1,1,11.5196078431373
+13713,"Aulacoseira nivaloides","Brandywine River",39.73658,-75.52568,"Neotoma","Neotoma_20919","20919","Aulacoseira distans var. nivaloides",1,4,10
+14207,"Aulacoseira nivaloides","Eunice Lake",46.954978,-121.878666,"Neotoma","Neotoma_22209","22209","Aulacoseira distans var. nivaloides",1,1,8.2
+27641,"Aulacoseira nivaloides","West Twin Lake",42.403518,-101.44454,"Neotoma","Neotoma_49625","49625","Aulacoseira distans var. nivaloides",1,1,7.26072607260726
+2625,"Aulacoseira nivaloides","Berry Lake",44.88833,-88.47944,"Neotoma","Neotoma_40066","40066","Aulacoseira distans var. nivaloides",1,1,5.76540755467197
+14087,"Aulacoseira nivaloides","Mountaintop Lake",46.927086,-80.891158,"Neotoma","Neotoma_21949","21949","Melosira distans var. nivaloides",1,10,5.50724637681159
+26234,"Aulacoseira nivaloides","Bennett Lake",43.31528,-74.19444,"Neotoma","Neotoma_49032","49032","Melosira distans var. nivaloides",1,1,3.61904761904762
+712,"Aulacoseira nivaloides","Bear Pond",44.398608,-74.287866,"Neotoma","Neotoma_29854","29854","Melosira distans var. nivaloides",1,2,3.41555977229602
+24448,"Aulacoseira nivaloides","Grass P. (H.W.)",43.691494,-75.063574,"Neotoma","Neotoma_51991","51991","Melosira distans var. nivaloides",1,1,3.37301587301587
+14106,"Aulacoseira nivaloides","Round Lake",46.32379,-81.200776,"Neotoma","Neotoma_21987","21987","Melosira distans var. nivaloides",1,3,3.35195530726257
+14105,"Aulacoseira nivaloides","Middle Lake",46.437104,-81.02591,"Neotoma","Neotoma_21985","21985","Melosira distans var. nivaloides",1,1,3.16455696202532
+14100,"Aulacoseira nivaloides","Labelle Lake",46.698046,-81.116732,"Neotoma","Neotoma_21975","21975","Melosira distans var. nivaloides",1,1,2.90556900726392
+14171,"Aulacoseira nivaloides","ELA 127 (Enache et al 2011)",49.64067,-93.854992,"Neotoma","Neotoma_22133","22133","Aulacoseira distans var. nivaloides",1,1,2.87769784172662
+26228,"Aulacoseira nivaloides","Barbadoes Pond",43.190028,-70.932756,"Neotoma","Neotoma_49026","49026","Melosira distans var. nivaloides",1,1,2.81425891181989
+26233,"Aulacoseira nivaloides","Bear Pond",45.338558,-69.604178,"Neotoma","Neotoma_49031","49031","Melosira distans var. nivaloides",1,1,2.8
+14186,"Aulacoseira nivaloides","ELA 384 (Enache et al 2011)",49.696076,-93.616278,"Neotoma","Neotoma_22161","22161","Aulacoseira distans var. nivaloides",1,1,2.72108843537415
+24454,"Aulacoseira nivaloides","John P.",44.112188,-74.765296,"Neotoma","Neotoma_51995","51995","Melosira distans var. nivaloides",1,1,2.56410256410256
+14103,"Aulacoseira nivaloides","Clarabelle Lake",46.490806,-81.097984,"Neotoma","Neotoma_21981","21981","Melosira distans var. nivaloides",1,1,2.52252252252252
+23295,"Aulacoseira nygaardii","Blue Lake",47.48939,-116.68656,"Neotoma","Neotoma_40114","40114","Aulacoseira nygaardii",1,1,37.1681415929204
+23335,"Aulacoseira nygaardii","Crystal Lake",28.02626,-81.90969,"Neotoma","Neotoma_40162 | Neotoma_40161","40162 | 40161","Aulacoseira nygaardii",2,2,34.5744680851064
+23333,"Aulacoseira nygaardii","Crooked Lake",45.41455,-84.80371,"Neotoma","Neotoma_40157","40157","Aulacoseira nygaardii",1,1,32.4444444444444
+23302,"Aulacoseira nygaardii","Brooklyn Lake",41.37197,-106.25025,"Neotoma","Neotoma_40123","40123","Aulacoseira nygaardii",1,1,22.8310502283105
+24436,"Aulacoseira nygaardii","Cheney Pond",43.877326,-74.162748,"Neotoma","Neotoma_54613","54613","Melosira nygaardii",1,2,21.7131474103586
+23331,"Aulacoseira nygaardii","Cranberry",48.39382,-122.65624,"Neotoma","Neotoma_40154","40154","Aulacoseira nygaardii",1,1,16.3636363636364
+23317,"Aulacoseira nygaardii","Cassadaga Lake",42.34421,-79.32039,"Neotoma","Neotoma_40138","40138","Aulacoseira nygaardii",1,1,15.1111111111111
+23320,"Aulacoseira nygaardii","Cedar Lake",41.36944,-87.43214,"Neotoma","Neotoma_40142","40142","Aulacoseira nygaardii",1,1,11.6331096196868
+24026,"Aulacoseira nygaardii","Ryan",48.517774,-92.707768,"Neotoma","Neotoma_52937","52937","Aulacoseira nygaardii",1,14,10.2844638949672
+13959,"Aulacoseira nygaardii","Heeney Lake",45.13333,-79.1,"Neotoma","Neotoma_21527","21527","Melosira nygaardii",1,2,9.71786833855799
+13918,"Aulacoseira nygaardii","Honest John Lake",46.618774,-90.629778,"Neotoma","Neotoma_21410","21410","Aulacoseira nygaardii",1,13,8.58283433133733
+24477,"Aulacoseira nygaardii","Windfall Pond",43.805286,-74.829372,"Neotoma","Neotoma_46236","46236","Melosira nygaardii",1,1,8.36431226765799
+11820,"Aulacoseira nygaardii","Lake Jesse",44.031734,-66.009666,"Neotoma","Neotoma_17897","17897","Aulacoseira nygaardii",1,1,8.23045267489712
+23315,"Aulacoseira nygaardii","Caspian Lake",44.58636,-72.31186,"Neotoma","Neotoma_40136","40136","Aulacoseira nygaardii",1,1,7.52351097178683
+23303,"Aulacoseira nygaardii","Browns Lake",42.30713,-96.33165,"Neotoma","Neotoma_40124","40124","Aulacoseira nygaardii",1,1,7.17488789237668
+26226,"Aulacoseira nygaardii","Alexandra Lake",43.290304,-74.169656,"Neotoma","Neotoma_49024","49024","Melosira nygaardii",1,1,7.10172744721689
+23304,"Aulacoseira nygaardii","Bruce Lake",41.0771,-86.46356,"Neotoma","Neotoma_40125","40125","Aulacoseira nygaardii",1,1,7.06638115631692
+13691,"Aulacoseira nygaardii","Cornings Lake",44.051474,-66.082986,"Neotoma","Neotoma_20873","20873","Aulacoseira nygaardii",1,2,6.11510791366906
+26548,"Aulacoseira nygaardii","West Pond",43.811082,-74.879906,"Neotoma","Neotoma_46228","46228","Melosira nygaardii",1,4,5.31135531135531
+23316,"Aulacoseira nygaardii","Cass Lake",47.39595,-94.56184,"Neotoma","Neotoma_40137","40137","Aulacoseira nygaardii",1,1,5.22565320665083
+24446,"Aulacoseira nygaardii","Fish Ponds (NE)",43.546548,-74.060568,"Neotoma","Neotoma_51988","51988","Melosira nygaardii",1,1,5
+11907,"Aulacoseira nygaardii","Springfield Lake",44.810822,-63.741114,"Neotoma","Neotoma_18057","18057","Aulacoseira nygaardii",1,2,4.74137931034483
+9929,"Aulacoseira nygaardii","Crow Wing",46.235292,-94.342476,"Neotoma","Neotoma_40159","40159","Aulacoseira nygaardii",1,1,4.71014492753623
+14123,"Aulacoseira nygaardii","Little Amy Lake",46.709314,-80.83867,"Neotoma","Neotoma_22024","22024","Melosira nygaardii",1,7,4.6875
+23334,"Aulacoseira nygaardii","Crooked Pond",43.29636,-71.4281,"Neotoma","Neotoma_40158","40158","Aulacoseira nygaardii",1,1,4.62633451957295
+11873,"Aulacoseira nygaardii","Powder Mill",44.773532,-63.612798,"Neotoma","Neotoma_17984","17984","Aulacoseira nygaardii",1,1,4.60210930009588
+23330,"Aulacoseira nygaardii","Coursey Pond",38.98848,-75.51764,"Neotoma","Neotoma_40153","40153","Aulacoseira nygaardii",1,1,4.51306413301663
+14087,"Aulacoseira nygaardii","Mountaintop Lake",46.927086,-80.891158,"Neotoma","Neotoma_21949","21949","Melosira nygaardii",1,2,4.3343653250774
+24448,"Aulacoseira nygaardii","Grass P. (H.W.)",43.691494,-75.063574,"Neotoma","Neotoma_51991","51991","Melosira nygaardii",1,2,4.21686746987952
+26240,"Aulacoseira nygaardii","Brueyer Pond",44.13778,-74.29583,"Neotoma","Neotoma_49040","49040","Melosira nygaardii",1,1,4.11449016100179
+18872,"Aulacoseira nygaardii","Little Long P.",44.637058,-68.078654,"Neotoma","Neotoma_32438","32438","Melosira nygaardii",1,1,3.99385560675883
+24438,"Aulacoseira nygaardii","Constable P.",43.832912,-74.799182,"Neotoma","Neotoma_54614 | Neotoma_54620 | Neotoma_51984","54614 | 54620 | 51984","Melosira nygaardii",3,4,3.78486055776892
+11882,"Aulacoseira nygaardii","First Chain Lake",44.637776,-63.645344,"Neotoma","Neotoma_18005","18005","Aulacoseira nygaardii",1,1,3.53697749196141
+11872,"Aulacoseira nygaardii","Miller Lake",44.814602,-63.595268,"Neotoma","Neotoma_17982","17982","Aulacoseira nygaardii",1,1,3.44514959202176
+26232,"Aulacoseira nygaardii","Batsto River Reservoir",39.6534,-74.6534,"Neotoma","Neotoma_49030","49030","Melosira nygaardii",1,1,3.43511450381679
+11903,"Aulacoseira nygaardii","Rocky Lake",44.748946,-63.628316,"Neotoma","Neotoma_18047","18047","Aulacoseira nygaardii",1,1,3.07692307692308
+17914,"Aulacoseira nygaardii","Big Moose Lake",43.826934,-74.855136,"Neotoma","Neotoma_30178","30178","Melosira nygaardii",1,1,2.99785867237687
+11848,"Aulacoseira nygaardii","Dundas (Lake 4)",46.711056,-60.5411,"Neotoma","Neotoma_17962","17962","Aulacoseira nygaardii",1,1,2.98013245033113
+11913,"Aulacoseira nygaardii","Lake Banook",44.678496,-63.5573,"Neotoma","Neotoma_18069","18069","Aulacoseira nygaardii",1,1,2.96052631578947
+11875,"Aulacoseira nygaardii","Soldier Lake",44.810778,-63.570208,"Neotoma","Neotoma_17988","17988","Aulacoseira nygaardii",1,1,2.93737997040582
+24013,"Aulacoseira nygaardii","Ek",48.470246,-92.838276,"Neotoma","Neotoma_52414","52414","Aulacoseira nygaardii",1,2,2.91828793774319
+11857,"Aulacoseira nygaardii","Rocky Lake",44.556428,-64.440646,"Neotoma","Neotoma_17949","17949","Aulacoseira nygaardii",1,2,2.82258064516129
+14100,"Aulacoseira nygaardii","Labelle Lake",46.698046,-81.116732,"Neotoma","Neotoma_21975","21975","Melosira nygaardii",1,2,2.79569892473118
+13904,"Aulacoseira nygaardii","Bear Trap Slough",46.621846,-90.730106,"Neotoma","Neotoma_21326","21326","Aulacoseira nygaardii",1,1,2.75
+24454,"Aulacoseira nygaardii","John P.",44.112188,-74.765296,"Neotoma","Neotoma_51995","51995","Melosira nygaardii",1,1,2.58964143426295
+26246,"Aulacoseira nygaardii","Childs Bog",42.9572,-72.1227,"Neotoma","Neotoma_49046","49046","Melosira nygaardii",1,1,2.58780036968577
+1669,"Aulacoseira perglabra","McNearney Lake",46.426206,-84.95451,"Neotoma","Neotoma_46263 | Neotoma_46274 | Neotoma_46273","46263 | 46274 | 46273","Melosira perglabra | Melosira perglabra var. floriniae",3,43,71.6666666666667
+11848,"Aulacoseira perglabra","Dundas (Lake 4)",46.711056,-60.5411,"Neotoma","Neotoma_17938 | Neotoma_17962","17938 | 17962","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",2,23,47.8688524590164
+11777,"Aulacoseira perglabra","Lake of Islands",46.742226,-60.524092,"Neotoma","Neotoma_17814 | Neotoma_17937","17814 | 17937","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",2,18,47.8260869565217
+11782,"Aulacoseira perglabra","White Hill Lake",46.704076,-60.58256,"Neotoma","Neotoma_17819 | Neotoma_17889","17819 | 17889","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",2,18,47.8260869565217
+663,"Aulacoseira perglabra","Denton Lake",45.8532,-89.313518,"Neotoma","Neotoma_46238 | Neotoma_46239","46238 | 46239","Melosira perglabra | Melosira perglabra var. floriniae",2,34,41.8837675350701
+919,"Aulacoseira perglabra","Lake Wappapello",36.97055,-90.35313,"Neotoma","Neotoma_39762","39762","Aulacoseira cf. perglabra",1,1,38.3233532934132
+11849,"Aulacoseira perglabra","Dundas (Lake 3)",46.711056,-60.5411,"Neotoma","Neotoma_17939","17939","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",1,4,35.6687898089172
+13022,"Aulacoseira perglabra","Slipper Lake",64.60139,-110.8353,"Neotoma","Neotoma_19310","19310","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,48,28.576502974869
+24396,"Aulacoseira perglabra","Hall Lake",46.99493,-88.75916,"Neotoma","Neotoma_50259 | Neotoma_54732","50259 | 54732","Aulacoseira perglabra",2,2,26.2645914396887
+11820,"Aulacoseira perglabra","Lake Jesse",44.031734,-66.009666,"Neotoma","Neotoma_17897","17897","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",1,4,24.3333333333333
+11802,"Aulacoseira perglabra","Branch Pond",46.741216,-60.456702,"Neotoma","Neotoma_17876","17876","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",1,3,20.1923076923077
+14283,"Aulacoseira perglabra","Swan Pond",43.518716,-70.65002,"Neotoma","Neotoma_22360","22360","Aulacoseira perglabra",1,5,20
+11861,"Aulacoseira perglabra","Beaverskin Lake",44.306126,-65.332958,"Neotoma","Neotoma_17958","17958","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",1,11,19.935691318328
+27651,"Aulacoseira perglabra","Swan Lake",42.165184,-99.040986,"Neotoma","Neotoma_49648","49648","Aulacoseira perglabra var. florinae",1,15,18.5303514376997
+11948,"Aulacoseira perglabra","TK-20",64.15,-107.81667,"Neotoma","Neotoma_19349","19349","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,57,18.4210526315789
+13692,"Aulacoseira perglabra","Gull Lake",46.688586,-60.541344,"Neotoma","Neotoma_20874","20874","Aulacoseira perglabra",1,3,18.0327868852459
+11852,"Aulacoseira perglabra","Black Lake",44.291408,-65.27118,"Neotoma","Neotoma_17942","17942","Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,4,16.5016501650165
+14284,"Aulacoseira perglabra","Forest Lake",43.821598,-70.330128,"Neotoma","Neotoma_22362","22362","Aulacoseira perglabra",1,6,16.4473684210526
+24438,"Aulacoseira perglabra","Constable P.",43.832912,-74.799182,"Neotoma","Neotoma_51984 | Neotoma_54620 | Neotoma_54614","51984 | 54620 | 54614","Melosira perglabra | Melosira perglabra var. floriniae",3,6,15.8
+2219,"Aulacoseira perglabra","Lake RS29",73.13333,-95.28333,"Neotoma","Neotoma_58559","58559","Aulacoseira perglabra",1,34,15.5744024672321
+11907,"Aulacoseira perglabra","Springfield Lake",44.810822,-63.741114,"Neotoma","Neotoma_18057","18057","Aulacoseira perglabra",1,1,15.5172413793103
+23179,"Aulacoseira perglabra","Summersville Lake",38.22694,-80.85406,"Neotoma","Neotoma_39922","39922","Aulacoseira cf. perglabra",1,1,14.6245059288538
+11837,"Aulacoseira perglabra","Upper Silver Lake",44.284194,-65.24769,"Neotoma","Neotoma_17916","17916","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,3,14.5669291338583
+11870,"Aulacoseira perglabra","Little Springfield",44.801162,-63.748822,"Neotoma","Neotoma_17978","17978","Aulacoseira perglabra",1,1,13.5849056603774
+14140,"Aulacoseira perglabra","Brady Lake",58.322072,-136.681838,"Neotoma","Neotoma_22063","22063","Melosira perglabra var. floriniae | Melosira perglabra | Melosira perglabra var. floriniae",1,12,13.3479212253829
+10330,"Aulacoseira perglabra","Lac du Sommet",47.71494,-70.66531,"Neotoma","Neotoma_15692","15692","Aulacoseira perglabra",1,21,13.2295719844358
+14110,"Aulacoseira perglabra","Whirligig Lake",47.37704,-80.639024,"Neotoma","Neotoma_21995","21995","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,23,13.1212723658052
+306,"Aulacoseira perglabra","Brown Lake",45.779154,-89.4935,"Neotoma","Neotoma_46242","46242","Melosira perglabra | Melosira perglabra var. floriniae",1,12,12.6482213438735
+11826,"Aulacoseira perglabra","Big Dam Lake East",44.448638,-65.269372,"Neotoma","Neotoma_17955 | Neotoma_17903","17955 | 17903","Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",2,17,12.624584717608
+11809,"Aulacoseira perglabra","Long Lake",46.811582,-60.491554,"Neotoma","Neotoma_17884","17884","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",1,3,12.3287671232877
+13691,"Aulacoseira perglabra","Cornings Lake",44.051474,-66.082986,"Neotoma","Neotoma_20873","20873","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",1,3,12.1863799283154
+23372,"Aulacoseira perglabra","Fitzpatrick Lake",48.89406,-112.16802,"Neotoma","Neotoma_40272","40272","Aulacoseira perglabra",1,1,12.1
+11806,"Aulacoseira perglabra","Indian Lake",46.670234,-60.564646,"Neotoma","Neotoma_17881","17881","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",1,3,11.6465863453815
+11811,"Aulacoseira perglabra","Round Lake",46.805322,-60.50855,"Neotoma","Neotoma_17886","17886","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",1,3,11.6465863453815
+24481,"Aulacoseira perglabra","Zack P.",43.931614,-74.184478,"Neotoma","Neotoma_52018","52018","Melosira perglabra | Melosira perglabra var. floriniae",1,2,10.9780439121756
+24443,"Aulacoseira perglabra","Dry Channel P.",44.352056,-74.436722,"Neotoma","Neotoma_51986","51986","Melosira perglabra | Melosira perglabra var. floriniae",1,2,10.9561752988048
+26548,"Aulacoseira perglabra","West Pond",43.811082,-74.879906,"Neotoma","Neotoma_46228","46228","Melosira perglabra | Melosira perglabra var. floriniae",1,6,10.6227106227106
+11865,"Aulacoseira perglabra","Bell Lake",44.674252,-63.510168,"Neotoma","Neotoma_17968","17968","Aulacoseira perglabra",1,1,10.4761904761905
+18872,"Aulacoseira perglabra","Little Long P.",44.637058,-68.078654,"Neotoma","Neotoma_32438","32438","Melosira perglabra | Melosira perglabra var. floriniae | Melosira perglabra var. floriniae",1,11,10.4454685099846
+23276,"Aulacoseira perglabra","Becoosin Lake",47.9485,-91.39296,"Neotoma","Neotoma_40062 | Neotoma_40087","40062 | 40087","Aulacoseira perglabra",2,2,9.9609375
+24485,"Aulacoseira perglabra","Nine Corner L.",43.19416,-74.552938,"Neotoma","Neotoma_52006","52006","Melosira perglabra | Melosira perglabra var. floriniae",1,1,9.9601593625498
+13393,"Aulacoseira perglabra","Big Lake",44.373748,-121.87479,"Neotoma","Neotoma_40071 | Neotoma_40096","40071 | 40096","Aulacoseira perglabra",2,2,9.68379446640316
+11827,"Aulacoseira perglabra","Big Dam Lake West",44.4592,-65.29302,"Neotoma","Neotoma_17954 | Neotoma_17904","17954 | 17904","Aulacoseira perglabra var. florinae | Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",2,15,9.60264900662252
+11853,"Aulacoseira perglabra","Little Wiles Lake",44.400638,-64.644096,"Neotoma","Neotoma_17943","17943","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,4,9.20245398773006
+11831,"Aulacoseira perglabra","Frozen Ocean",44.446818,-65.349356,"Neotoma","Neotoma_17908","17908","Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,3,9.17721518987342
+11860,"Aulacoseira perglabra","Frozen Ocean Lake",44.44697,-65.349478,"Neotoma","Neotoma_17956","17956","Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,10,9.17721518987342
+11830,"Aulacoseira perglabra","Cobrielle Lake",44.312092,-65.238064,"Neotoma","Neotoma_17907","17907","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,4,8.94308943089431
+11873,"Aulacoseira perglabra","Powder Mill",44.773532,-63.612798,"Neotoma","Neotoma_17984","17984","Aulacoseira perglabra",1,1,8.91658676893576
+11801,"Aulacoseira perglabra","Little Tupper Lake",44.422772,-64.96655,"Neotoma","Neotoma_17875","17875","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,2,8.33333333333333
+11847,"Aulacoseira perglabra","Two Island Lake",46.658916,-60.587604,"Neotoma","Neotoma_17936","17936","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",1,4,8.27814569536424
+16574,"Aulacoseira perglabra","Woods L. (S.L.)",43.254086,-74.315254,"Neotoma","Neotoma_54622 | Neotoma_52017 | Neotoma_54616","54622 | 52017 | 54616","Melosira perglabra | Melosira perglabra var. floriniae | Melosira perglabra | Melosira perglabra var. floriniae | Melosira perglabra",3,6,8.18363273453094
+14035,"Aulacoseira perglabra","Walker Lake",45.378522,-79.091352,"Neotoma","Neotoma_21778","21778","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,2,8.05369127516779
+22988,"Aulacoseira perglabra","Lake Mattoon",39.34795,-88.46819,"Neotoma","Neotoma_39723","39723","Aulacoseira cf. perglabra",1,1,8.04263565891473
+11833,"Aulacoseira perglabra","Loon Lake",44.319728,-65.191124,"Neotoma","Neotoma_17911","17911","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,3,8
+11803,"Aulacoseira perglabra","Cradle Lake",46.72901,-60.43444,"Neotoma","Neotoma_17877 | Neotoma_17961","17877 | 17961","Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra var. florinae",2,2,7.91666666666667
+11859,"Aulacoseira perglabra","Halfbrook",44.9475,-62.465,"Neotoma","Neotoma_17951","17951","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,3,7.6
+11836,"Aulacoseira perglabra","Peskawa Lake",44.314254,-65.367186,"Neotoma","Neotoma_17957 | Neotoma_17915","17957 | 17915","Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",2,6,7.56578947368421
+11892,"Aulacoseira perglabra","Frog Pond",44.625938,-63.603426,"Neotoma","Neotoma_18025","18025","Aulacoseira perglabra",1,1,7.54716981132075
+11822,"Aulacoseira perglabra","Tedford Lake",44.10191,-66.014406,"Neotoma","Neotoma_17899","17899","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",1,4,7.53424657534247
+14006,"Aulacoseira perglabra","Kelly Lake",45.247794,-78.619586,"Neotoma","Neotoma_21714","21714","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,2,7.23981900452489
+11864,"Aulacoseira perglabra","Bayers",44.642328,-63.671504,"Neotoma","Neotoma_17966","17966","Aulacoseira perglabra",1,1,7.09342560553633
+14087,"Aulacoseira perglabra","Mountaintop Lake",46.927086,-80.891158,"Neotoma","Neotoma_21949","21949","Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,19,6.71378091872791
+14141,"Aulacoseira perglabra","Dagelet (Fritz et al 2004)",58.519284,-137.335382,"Neotoma","Neotoma_22066","22066","Melosira perglabra var. floriniae",1,9,6.68257756563246
+1781,"Aulacoseira perglabra","Otto Mielke Lake",45.924294,-89.626528,"Neotoma","Neotoma_46272","46272","Melosira perglabra var. floriniae | Melosira perglabra | Melosira perglabra | Melosira perglabra var. floriniae",1,10,6.66666666666667
+11760,"Aulacoseira perglabra","Grafton Lake",44.380262,-65.18858,"Neotoma","Neotoma_17738","17738","Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,10,6.31229235880399
+14090,"Aulacoseira perglabra","Acid Lake",46.035438,-81.444602,"Neotoma","Neotoma_21955","21955","Aulacoseira perglabra",1,13,6.21669626998224
+24475,"Aulacoseira perglabra","Whitney L.",43.588534,-74.564462,"Neotoma","Neotoma_52013","52013","Melosira perglabra | Melosira perglabra var. floriniae",1,2,6.16302186878728
+11763,"Aulacoseira perglabra","Pebbleloggitch Lake",44.300928,-65.351754,"Neotoma","Neotoma_17772","17772","Aulacoseira perglabra var. florinae | Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,8,6
+11872,"Aulacoseira perglabra","Miller Lake",44.814602,-63.595268,"Neotoma","Neotoma_17982","17982","Aulacoseira perglabra",1,1,5.89301903898459
+14109,"Aulacoseira perglabra","Bowland Lake",47.08769,-80.84229,"Neotoma","Neotoma_21993","21993","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",1,23,5.80985915492958
+205,"Aulacoseira perglabra","Andrus Lake",46.701316,-85.03964,"Neotoma","Neotoma_46241","46241","Melosira perglabra | Melosira perglabra var. floriniae | Melosira perglabra var. floriniae | Melosira perglabra",1,5,5.8
+24462,"Aulacoseira perglabra","Long P. (K.R.)",43.639074,-74.290066,"Neotoma","Neotoma_51997","51997","Melosira perglabra | Melosira perglabra | Melosira perglabra var. floriniae",1,1,5.75396825396825
+13931,"Aulacoseira perglabra","Bass Lake",45.11667,-79.7,"Neotoma","Neotoma_21445","21445","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,2,5.74162679425837
+13957,"Aulacoseira perglabra","Harp Lake",45.38333,-78.13333,"Neotoma","Neotoma_21497","21497","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,1,5.70071258907363
+24494,"Aulacoseira perglabra","St. John L.",43.44214,-74.061392,"Neotoma","Neotoma_52009","52009","Melosira perglabra | Melosira perglabra | Melosira perglabra var. floriniae",1,2,5.6
+24807,"Aulacoseira perglabra","Island Pond (Ar)",46.9518,-68.843,"Neotoma","Neotoma_54755","54755","Aulacoseira perglabra var. florinae",1,1,5.38922155688623
+22993,"Aulacoseira perglabra","Lake Murvaul",32.04443,-94.46405,"Neotoma","Neotoma_39728","39728","Aulacoseira cf. perglabra",1,1,5.32319391634981
+14108,"Aulacoseira perglabra","Aurora Whitepine Lake",47.38208,-80.63068,"Neotoma","Neotoma_21991","21991","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,22,5.23255813953488
+11817,"Aulacoseira perglabra","Cedar Lake",44.022984,-66.114082,"Neotoma","Neotoma_17894","17894","Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,1,5.19031141868512
+11850,"Aulacoseira perglabra","Glasgow Lake",46.821428,-60.495672,"Neotoma","Neotoma_17940","17940","Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,2,5.05050505050505
+23309,"Aulacoseira perglabra","Bull Trout Lake",44.29998,-115.25396,"Neotoma","Neotoma_40186","40186","Aulacoseira perglabra",1,1,4.9792531120332
+11829,"Aulacoseira perglabra","Channel Lake",44.42576,-65.309628,"Neotoma","Neotoma_17906","17906","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,3,4.85436893203883
+11813,"Aulacoseira perglabra","Matthew Lake",44.328,-64.684178,"Neotoma","Neotoma_17888","17888","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",1,2,4.35643564356436
+24454,"Aulacoseira perglabra","John P.",44.112188,-74.765296,"Neotoma","Neotoma_51995","51995","Melosira perglabra | Melosira perglabra var. floriniae",1,2,4.33925049309665
+11846,"Aulacoseira perglabra","Peskowesk Lake",44.309514,-65.298444,"Neotoma","Neotoma_17953","17953","Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra var. florinae",1,1,4.3046357615894
+27642,"Aulacoseira perglabra","East Twin Lake",42.41154,-101.432228,"Neotoma","Neotoma_49627","49627","Aulacoseira perglabra var. florinae",1,1,4.27631578947368
+14022,"Aulacoseira perglabra","Plastic Lake",45.178846,-78.823194,"Neotoma","Neotoma_21748","21748","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,1,4.27184466019417
+24482,"Aulacoseira perglabra","Mud L. (S.L.)",43.341006,-74.454016,"Neotoma","Neotoma_52002","52002","Melosira perglabra | Melosira perglabra var. floriniae",1,1,4.19161676646707
+22772,"Aulacoseira perglabra","Bushwacker",37.66813,-94.41073,"Neotoma","Neotoma_39497","39497","Aulacoseira cf. perglabra",1,1,4.1501976284585
+14098,"Aulacoseira perglabra","Whitepine Lake",47.28087,-80.832678,"Neotoma","Neotoma_21971","21971","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",1,2,4.09638554216868
+11914,"Aulacoseira perglabra","Bisset Lake",44.65388,-63.46982,"Neotoma","Neotoma_18071","18071","Aulacoseira perglabra",1,1,4.06976744186047
+14184,"Aulacoseira perglabra","ELA 378 (Enache et al 2011)",49.710386,-93.777034,"Neotoma","Neotoma_22157","22157","Aulacoseira perglabra var. florinae",1,1,4.0625
+14105,"Aulacoseira perglabra","Middle Lake",46.437104,-81.02591,"Neotoma","Neotoma_21985","21985","Aulacoseira perglabra",1,4,4.04411764705882
+14136,"Aulacoseira perglabra","Norway Lake",46.085386,-81.311934,"Neotoma","Neotoma_22054","22054","Aulacoseira perglabra",1,1,4
+24467,"Aulacoseira perglabra","Mt. Arab L.",44.183856,-74.601608,"Neotoma","Neotoma_52000","52000","Melosira perglabra",1,1,4
+24448,"Aulacoseira perglabra","Grass P. (H.W.)",43.691494,-75.063574,"Neotoma","Neotoma_51991","51991","Melosira perglabra var. floriniae | Melosira perglabra | Melosira perglabra var. floriniae",1,1,3.96825396825397
+14034,"Aulacoseira perglabra","St. Nora Lake",45.15204,-78.831024,"Neotoma","Neotoma_21776","21776","Aulacoseira perglabra var. florinae | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,1,3.9647577092511
+11810,"Aulacoseira perglabra","Mica Hill Lake",46.813538,-60.442706,"Neotoma","Neotoma_17885","17885","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,2,3.95256916996047
+11821,"Aulacoseira perglabra","Killiams Lake",44.003726,-66.082282,"Neotoma","Neotoma_17898","17898","Aulacoseira perglabra",1,3,3.886925795053
+13918,"Aulacoseira perglabra","Honest John Lake",46.618774,-90.629778,"Neotoma","Neotoma_21410","21410","Aulacoseira perglabra var. florinae | Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,3,3.82293762575453
+11920,"Aulacoseira perglabra","Sheldrake lake",44.675856,-63.798406,"Neotoma","Neotoma_18083","18083","Aulacoseira perglabra",1,1,3.74331550802139
+14119,"Aulacoseira perglabra","Seal Lake",46.708638,-81.385004,"Neotoma","Neotoma_22017","22017","Aulacoseira perglabra",1,7,3.68932038834951
+11888,"Aulacoseira perglabra","Big Albro Lake",44.688732,-63.577348,"Neotoma","Neotoma_18017","18017","Aulacoseira perglabra",1,1,3.67965367965368
+11807,"Aulacoseira perglabra","John Dee Lake",46.81221,-60.520472,"Neotoma","Neotoma_17882","17882","Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,1,3.62903225806452
+11851,"Aulacoseira perglabra","Bird Lake",43.971902,-65.944218,"Neotoma","Neotoma_17941","17941","Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,1,3.62903225806452
+11918,"Aulacoseira perglabra","Pennhorn lake",44.675018,-63.541026,"Neotoma","Neotoma_18079","18079","Aulacoseira perglabra",1,1,3.56347438752784
+24026,"Aulacoseira perglabra","Ryan",48.517774,-92.707768,"Neotoma","Neotoma_52937","52937","Aulacoseira perglabra",1,1,3.53200883002207
+11912,"Aulacoseira perglabra","Williams Lake",44.618554,-63.598894,"Neotoma","Neotoma_18067","18067","Aulacoseira perglabra",1,1,3.49417637271215
+11856,"Aulacoseira perglabra","Annis Lake",44.328762,-64.841268,"Neotoma","Neotoma_17948","17948","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra",1,1,3.35305719921105
+14113,"Aulacoseira perglabra","Nickel Lake",46.744126,-81.137294,"Neotoma","Neotoma_22001","22001","Aulacoseira perglabra var. florinae | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,3,3.21969696969697
+24479,"Aulacoseira perglabra","Woodhull L.",43.595372,-74.993768,"Neotoma","Neotoma_52016","52016","Melosira perglabra var. floriniae | Melosira perglabra | Melosira perglabra var. floriniae",1,1,3.2064128256513
+14674,"Aulacoseira perglabra","Snipe Lake",45.938404,-89.366966,"Neotoma","Neotoma_23022","23022","Aulacoseira perglabra var. florinae",1,1,3.17848410757946
+18688,"Aulacoseira perglabra","Queer Lake",43.81361,-74.80694,"Neotoma","Neotoma_31958","31958","Melosira perglabra | Melosira perglabra | Melosira perglabra var. floriniae",1,1,3.10077519379845
+11911,"Aulacoseira perglabra","Lake William",44.763062,-63.589314,"Neotoma","Neotoma_18065","18065","Aulacoseira perglabra",1,1,3.06748466257669
+14036,"Aulacoseira perglabra","Young Lake",45.203066,-79.54903,"Neotoma","Neotoma_21780","21780","Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,1,3.03030303030303
+24451,"Aulacoseira perglabra","Gull L. (South)",43.855988,-74.821586,"Neotoma","Neotoma_51992","51992","Melosira perglabra | Melosira perglabra var. floriniae",1,1,3
+24465,"Aulacoseira perglabra","Middle South P.",43.990244,-75.018946,"Neotoma","Neotoma_51999","51999","Melosira perglabra | Melosira perglabra var. floriniae",1,1,2.98804780876494
+24476,"Aulacoseira perglabra","Wilmurt L.",43.430232,-74.725748,"Neotoma","Neotoma_52014","52014","Melosira perglabra | Melosira perglabra var. floriniae | Melosira perglabra",1,1,2.98804780876494
+11868,"Aulacoseira perglabra","Kinsac lake",44.825144,-63.652174,"Neotoma","Neotoma_17974","17974","Aulacoseira perglabra",1,1,2.97619047619048
+14142,"Aulacoseira perglabra","Harbor Point (Fritz et al 2004)",58.603254,-137.63901,"Neotoma","Neotoma_22069","22069","Aulacoseira perglabra var. florinae",1,3,2.9535864978903
+11832,"Aulacoseira perglabra","Kejimkujik Lake",44.364888,-65.257588,"Neotoma","Neotoma_17910","17910","Aulacoseira perglabra var. florinae | Aulacoseira perglabra | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,1,2.94117647058824
+23238,"Aulacoseira perglabra","Yellow Belly Lake",44.00062,-114.87572,"Neotoma","Neotoma_39985","39985","Aulacoseira perglabra",1,1,2.92504570383912
+11917,"Aulacoseira perglabra","Morris Lake",44.64975,-63.501904,"Neotoma","Neotoma_18077","18077","Aulacoseira perglabra",1,1,2.90909090909091
+11881,"Aulacoseira perglabra","Chocolate Lake",44.638152,-63.624634,"Neotoma","Neotoma_18003","18003","Aulacoseira perglabra",1,1,2.87474332648871
+13940,"Aulacoseira perglabra","Chub Lake",45.21667,-78.98333,"Neotoma","Neotoma_21463","21463","Aulacoseira perglabra var. florinae | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,1,2.85714285714286
+13945,"Aulacoseira perglabra","Dickie Lake",45.15,-79.08333,"Neotoma","Neotoma_21473","21473","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra var. florinae",1,1,2.84463894967177
+14118,"Aulacoseira perglabra","Roland Lake",46.73499,-81.132894,"Neotoma","Neotoma_22015","22015","Aulacoseira perglabra",1,1,2.82485875706215
+11818,"Aulacoseira perglabra","Darlings Lake",43.963812,-66.128598,"Neotoma","Neotoma_17895","17895","Aulacoseira perglabra | Aulacoseira perglabra var. florinae | Aulacoseira perglabra var. florinae",1,1,2.77777777777778
+13620,"Aulacoseira perglabra","Kiser Lake",40.18854,-83.96549,"Neotoma","Neotoma_39668","39668","Aulacoseira perglabra",1,1,2.75049115913556
+26538,"Aulacoseira perglabra","Ruby L.",37.414376,-118.770974,"Neotoma","Neotoma_46259","46259","Melosira perglabra | Melosira perglabra | Melosira perglabra var. floriniae",1,1,2.75049115913556
+24028,"Aulacoseira perglabra","Tooth Lake",48.39741,-92.642674,"Neotoma","Neotoma_47458","47458","Aulacoseira perglabra",1,1,2.72727272727273
+14008,"Aulacoseira perglabra","Kushog Lake",45.08767,-78.81045,"Neotoma","Neotoma_21718","21718","Aulacoseira perglabra var. florinae | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,1,2.7027027027027
+11879,"Aulacoseira perglabra","Thomas Lake",44.793688,-63.608438,"Neotoma","Neotoma_17999","17999","Aulacoseira perglabra",1,1,2.64608599779493
+27641,"Aulacoseira perglabra","West Twin Lake",42.403518,-101.44454,"Neotoma","Neotoma_49625","49625","Aulacoseira perglabra var. florinae",1,1,2.63929618768328
+14178,"Aulacoseira perglabra","Wasp Lake [ELA 165 (Enache et al 2011)]",49.623716,-93.812294,"Neotoma","Neotoma_22147","22147","Aulacoseira perglabra var. florinae",1,1,2.63653483992467
+13952,"Aulacoseira perglabra","Gullfeather Lake",45.1,-79.01667,"Neotoma","Neotoma_21487","21487","Aulacoseira perglabra var. florinae | Aulacoseira perglabra | Aulacoseira perglabra var. florinae",1,1,2.61904761904762
+11887,"Aulacoseira perglabra","Topsail Lake",44.692948,-63.516748,"Neotoma","Neotoma_18015","18015","Aulacoseira perglabra",1,1,2.60663507109005
+1105,"Aulacoseira perglabra","Hustler Lake",48.227368,-92.161904,"Neotoma","Neotoma_46246 | Neotoma_46262","46246 | 46262","Melosira perglabra var. floriniae | Melosira perglabra | Melosira perglabra | Melosira perglabra var. floriniae",2,4,2.58964143426295
+14260,"Aulacoseira perglabra","Brooktrout Lake",43.602338,-74.664896,"Neotoma","Neotoma_22308","22308","Aulacoseira perglabra",1,1,2.57879656160458
+14120,"Aulacoseira perglabra","Skynner Lake",46.751182,-80.856312,"Neotoma","Neotoma_22019","22019","Aulacoseira perglabra",1,1,2.52427184466019
+22927,"Aulacoseira pusilla","Jordan Lake",32.75599,-86.38311,"Neotoma","Neotoma_39658","39658","Aulacoseira subborealis",1,1,59.1633466135458
+23033,"Aulacoseira pusilla","Lay Reservoir",33.0978,-86.48006,"Neotoma","Neotoma_39771","39771","Aulacoseira subborealis",1,1,51.2
+22770,"Aulacoseira pusilla","Bunkick Lake",30.75107,-93.1114,"Neotoma","Neotoma_39495","39495","Aulacoseira subborealis",1,1,44.8412698412698
+13304,"Aulacoseira pusilla","Lac Noir",45.776816,-75.136162,"Neotoma","Neotoma_58426","58426","Aulacoseira pusilla",1,33,34.9609375
+23058,"Aulacoseira pusilla","Manassas",38.77125,-77.64556,"Neotoma","Neotoma_39796","39796","Aulacoseira subborealis",1,1,34.1509433962264
+23045,"Aulacoseira pusilla","Logan Martin Lake",33.55681,-86.14385,"Neotoma","Neotoma_39783","39783","Aulacoseira subborealis",1,1,33.8
+22982,"Aulacoseira pusilla","Lake Lee",34.96189,-80.51686,"Neotoma","Neotoma_39717","39717","Aulacoseira subborealis",1,1,25.2666666666667
+23155,"Aulacoseira pusilla","Ski Lake",33.28828,-87.14105,"Neotoma","Neotoma_39896","39896","Aulacoseira subborealis",1,1,24.4897959183673
+22934,"Aulacoseira pusilla","Kincaid Lake",38.71328,-84.2755,"Neotoma","Neotoma_39665","39665","Aulacoseira subborealis",1,1,23.2
+23030,"Aulacoseira pusilla","Lake Wylie",35.02063,-81.04742,"Neotoma","Neotoma_39768","39768","Aulacoseira subborealis",1,1,19.9203187250996
+22936,"Aulacoseira pusilla","Kings Mountian #1 Lake",35.20132,-81.34573,"Neotoma","Neotoma_39667","39667","Aulacoseira subborealis",1,1,19.4570135746606
+23146,"Aulacoseira pusilla","Santa Fe Lake",37.70524,-97.05593,"Neotoma","Neotoma_39887","39887","Aulacoseira subborealis",1,1,14.4814090019569
+22918,"Aulacoseira pusilla","J T Budd Pond",30.43252,-84.5445,"Neotoma","Neotoma_39649","39649","Aulacoseira subborealis",1,1,14
+22971,"Aulacoseira pusilla","Lake Hickory",35.79847,-81.2984,"Neotoma","Neotoma_39706","39706","Aulacoseira subborealis",1,1,11.1111111111111
+23211,"Aulacoseira pusilla","Weiss Reservoir",34.14749,-85.79186,"Neotoma","Neotoma_39955","39955","Aulacoseira subborealis",1,1,11
+23287,"Aulacoseira pusilla","Blackfish Lake",35.14239,-90.4578,"Neotoma","Neotoma_40102 | Neotoma_40077","40102 | 40077","Aulacoseira subborealis",2,2,10.4972375690608
+23193,"Aulacoseira pusilla","Tulloch Reservoir",37.89444,-120.57212,"Neotoma","Neotoma_39936","39936","Aulacoseira subborealis",1,1,10.4125736738703
+13918,"Aulacoseira pusilla","Honest John Lake",46.618774,-90.629778,"Neotoma","Neotoma_21410","21410","Aulacoseira subborealis",1,5,10.261569416499
+22956,"Aulacoseira pusilla","Lake Burnt Mills",36.84154,-76.64966,"Neotoma","Neotoma_39690","39690","Aulacoseira subborealis",1,1,9.8
+22992,"Aulacoseira pusilla","Lake Morris",36.9216,-87.45543,"Neotoma","Neotoma_39727","39727","Aulacoseira subborealis",1,1,7.93650793650794
+22964,"Aulacoseira pusilla","Lake Fisher",35.49457,-80.5756,"Neotoma","Neotoma_39698","39698","Aulacoseira subborealis",1,1,6.15079365079365
+9866,"Aulacoseira pusilla","Big Reed Pond Hollow",46.350486,-69.051912,"Neotoma","Neotoma_40073","40073","Aulacoseira subborealis",1,1,6.02409638554217
+22786,"Aulacoseira pusilla","Chimney Reservoir",41.40501,-117.1543,"Neotoma","Neotoma_39511","39511","Aulacoseira subborealis",1,1,6
+22804,"Aulacoseira pusilla","Chimney Reservoir",41.40501,-117.1543,"Neotoma","Neotoma_39529","39529","Aulacoseira subborealis",1,1,6
+23183,"Aulacoseira pusilla","Swimming River Reservoir",40.3065,-74.13721,"Neotoma","Neotoma_39926","39926","Aulacoseira subborealis",1,1,5.48418972332016
+22778,"Aulacoseira pusilla","Cap Mauzy Lake",37.61579,-87.85836,"Neotoma","Neotoma_39503","39503","Aulacoseira subborealis",1,1,5.4
+22796,"Aulacoseira pusilla","Cap Mauzy Lake",37.61579,-87.85836,"Neotoma","Neotoma_39521","39521","Aulacoseira subborealis",1,1,5.4
+22957,"Aulacoseira pusilla","Lake Catherine",36.00713,-84.89744,"Neotoma","Neotoma_39691","39691","Aulacoseira subborealis",1,1,5.29197080291971
+22976,"Aulacoseira pusilla","Lake Kittamagundi",39.21642,-76.85375,"Neotoma","Neotoma_39711","39711","Aulacoseira subborealis",1,1,5.01930501930502
+24397,"Aulacoseira pusilla","Hannaberry Lake",34.12004,-91.56105,"Neotoma","Neotoma_50260","50260","Aulacoseira subborealis",1,1,4.8
+23179,"Aulacoseira pusilla","Summersville Lake",38.22694,-80.85406,"Neotoma","Neotoma_39922","39922","Aulacoseira subborealis",1,1,4.34782608695652
+24407,"Aulacoseira pusilla","Horseshoe Lake",28.63736,-81.1376,"Neotoma","Neotoma_50270","50270","Aulacoseira subborealis",1,1,4.2
+23157,"Aulacoseira pusilla","Sleepy Creek Lake",39.51431,-78.1565,"Neotoma","Neotoma_39898","39898","Aulacoseira subborealis",1,1,3.96825396825397
+23330,"Aulacoseira pusilla","Coursey Pond",38.98848,-75.51764,"Neotoma","Neotoma_40208","40208","Aulacoseira subborealis",1,1,3.66088631984586
+23051,"Aulacoseira pusilla","Louisburg State Fishing Lake",38.50443,-94.68362,"Neotoma","Neotoma_39789","39789","Aulacoseira subborealis",1,1,3.6
+24807,"Aulacoseira pusilla","Island Pond (Ar)",46.9518,-68.843,"Neotoma","Neotoma_54755","54755","Aulacoseira subborealis",1,1,3.59281437125748
+23119,"Aulacoseira pusilla","Pickwick Lake",34.83841,-87.9467,"Neotoma","Neotoma_39859","39859","Aulacoseira subborealis",1,1,2.94117647058824
+24185,"Aulacoseira tenella","Cone P.",43.903222,-71.604876,"Neotoma","Neotoma_42553","42553","Melosira tenella",1,3,43.1005110732538
+1597,"Aulacoseira tenella","Lake Annie",27.206702,-81.351632,"Neotoma","Neotoma_55915","55915","Aulacoseira tenella",1,78,31.5619967793881
+663,"Aulacoseira tenella","Denton Lake",45.8532,-89.313518,"Neotoma","Neotoma_46238 | Neotoma_46239","46238 | 46239","Melosira distans var. tenella",2,24,29.0513833992095
+24011,"Aulacoseira tenella","Brown",48.515798,-92.796298,"Neotoma","Neotoma_52985","52985","Aulacoseira tenella",1,15,26.1603375527426
+24023,"Aulacoseira tenella","Peary",48.524892,-92.771676,"Neotoma","Neotoma_52440","52440","Aulacoseira tenella",1,15,25.8490566037736
+24027,"Aulacoseira tenella","Shoepack",48.499448,-92.88196,"Neotoma","Neotoma_52936","52936","Aulacoseira tenella",1,14,24.3396226415094
+14200,"Aulacoseira tenella","Lake M4 (Paterson et al. 2000)",49.245464,-92.20267,"Neotoma","Neotoma_22188","22188","Aulacoseira distans var. tenella",1,15,24.1791044776119
+19713,"Aulacoseira tenella","Lake Suggs",29.73833,-82.01805,"Neotoma","Neotoma_34132","34132","Melosira distans var. tenella",1,12,18.7272727272727
+205,"Aulacoseira tenella","Andrus Lake",46.701316,-85.03964,"Neotoma","Neotoma_46241","46241","Melosira distans var. tenella",1,19,18.6
+24483,"Aulacoseira tenella","Mud P. (no name)",43.126838,-74.589168,"Neotoma","Neotoma_52001","52001","Melosira distans var. tenella",1,1,17.9841897233202
+23118,"Aulacoseira tenella","Philpott Reservoir",36.80783,-80.07973,"Neotoma","Neotoma_39858","39858","Aulacoseira tenella",1,1,16.5369649805447
+24016,"Aulacoseira tenella","Locator Lake",48.538024,-93.007954,"Neotoma","Neotoma_52940","52940","Aulacoseira tenella",1,13,16.039603960396
+24406,"Aulacoseira tenella","Hinkley's Pond",41.71308,-70.08954,"Neotoma","Neotoma_54742","54742","Aulacoseira tenella",1,1,15.7684630738523
+24486,"Aulacoseira tenella","North Branch L.",43.314016,-74.793332,"Neotoma","Neotoma_52004","52004","Melosira distans var. tenella",1,1,14.3712574850299
+13918,"Aulacoseira tenella","Honest John Lake",46.618774,-90.629778,"Neotoma","Neotoma_21410","21410","Aulacoseira tenella",1,4,13.6
+14193,"Aulacoseira tenella","ELA 651 (Enache et al 2011)",49.813144,-93.775262,"Neotoma","Neotoma_22175","22175","Aulacoseira distans var. tenella",1,2,13.4615384615385
+26246,"Aulacoseira tenella","Childs Bog",42.9572,-72.1227,"Neotoma","Neotoma_49046","49046","Melosira distans var. tenella",1,1,13.1447587354409
+14260,"Aulacoseira tenella","Brooktrout Lake",43.602338,-74.664896,"Neotoma","Neotoma_22308","22308","Aulacoseira tenella",1,5,12.9746835443038
+16574,"Aulacoseira tenella","Woods L. (S.L.)",43.254086,-74.315254,"Neotoma","Neotoma_54622 | Neotoma_54616 | Neotoma_52017","54622 | 54616 | 52017","Melosira distans var. tenella",3,6,12.375249500998
+13304,"Aulacoseira tenella","Lac Noir",45.776816,-75.136162,"Neotoma","Neotoma_58426 | Neotoma_58431","58426 | 58431","Aulacoseira tenella",2,40,11.8110236220472
+1105,"Aulacoseira tenella","Hustler Lake",48.227368,-92.161904,"Neotoma","Neotoma_46246 | Neotoma_46262","46246 | 46262","Melosira distans var. tenella",2,28,11.5686274509804
+14178,"Aulacoseira tenella","Wasp Lake [ELA 165 (Enache et al 2011)]",49.623716,-93.812294,"Neotoma","Neotoma_22147","22147","Aulacoseira distans var. tenella",1,2,11.3978494623656
+24013,"Aulacoseira tenella","Ek",48.470246,-92.838276,"Neotoma","Neotoma_52414","52414","Aulacoseira tenella",1,13,10.8829568788501
+18872,"Aulacoseira tenella","Little Long P.",44.637058,-68.078654,"Neotoma","Neotoma_32438","32438","Melosira distans var. tenella",1,11,10.56
+24403,"Aulacoseira tenella","Hert Lake",39.00356,-87.18336,"Neotoma","Neotoma_54739","54739","Aulacoseira tenella",1,1,10.5566218809981
+10330,"Aulacoseira tenella","Lac du Sommet",47.71494,-70.66531,"Neotoma","Neotoma_15692","15692","Aulacoseira distans var. tenella",1,3,10.4602510460251
+24416,"Aulacoseira tenella","Island Pond",43.17766,-72.06616,"Neotoma","Neotoma_50283","50283","Aulacoseira tenella",1,1,10.3585657370518
+13952,"Aulacoseira tenella","Gullfeather Lake",45.1,-79.01667,"Neotoma","Neotoma_21487","21487","Aulacoseira distans var. tenella",1,2,10.0702576112412
+14013,"Aulacoseira tenella","Little Kennisis Lake",45.249512,-78.589048,"Neotoma","Neotoma_21730","21730","Aulacoseira distans var. tenella",1,2,9.79020979020979
+22384,"Aulacoseira tenella","Mirror Lake (Carroll)",43.621142,-71.267202,"Neotoma","Neotoma_38775","38775","Melosira distans var. tenella",1,13,9.61923847695391
+24807,"Aulacoseira tenella","Island Pond (Ar)",46.9518,-68.843,"Neotoma","Neotoma_54755","54755","Aulacoseira tenella",1,1,9.58083832335329
+1735,"Aulacoseira tenella","Nels Lake",48.02276,-91.894766,"Neotoma","Neotoma_46275","46275","Melosira distans var. tenella",1,18,9.07297830374753
+23065,"Aulacoseira tenella","McMath Millpond",32.07004,-84.297,"Neotoma","Neotoma_39803","39803","Aulacoseira tenella",1,1,8.64440078585462
+13929,"Aulacoseira tenella","Twelve Mile Lake",45.01667,-78.71667,"Neotoma","Neotoma_21441","21441","Aulacoseira distans var. tenella",1,1,7.60095011876485
+14164,"Aulacoseira tenella","Wasp Lake [ELA 164 (Enache et al 2011)]",49.621128,-93.823624,"Neotoma","Neotoma_22120","22120","Aulacoseira distans var. tenella",1,2,7.2093023255814
+13930,"Aulacoseira tenella","Three Mile Lake",45.16667,-79.45,"Neotoma","Neotoma_21443","21443","Aulacoseira distans var. tenella",1,2,7.05128205128205
+23131,"Aulacoseira tenella","Rainey Pond",36.56057,-77.74541,"Neotoma","Neotoma_39872","39872","Aulacoseira tenella",1,1,6.94444444444444
+13931,"Aulacoseira tenella","Bass Lake",45.11667,-79.7,"Neotoma","Neotoma_21445","21445","Aulacoseira distans var. tenella",1,1,6.90423162583519
+13957,"Aulacoseira tenella","Harp Lake",45.38333,-78.13333,"Neotoma","Neotoma_21497","21497","Aulacoseira distans var. tenella",1,2,6.88836104513064
+13911,"Aulacoseira tenella","Butternut Lake",45.964568,-90.520892,"Neotoma","Neotoma_21397","21397","Aulacoseira tenella",1,5,6.73316708229426
+14038,"Aulacoseira tenella","Lake of Bays",45.221998,-79.026304,"Neotoma","Neotoma_21785 | Neotoma_21783","21785 | 21783","Aulacoseira distans var. tenella",2,4,6.53153153153153
+23169,"Aulacoseira tenella","Starvation Reservoir",40.17547,-110.48491,"Neotoma","Neotoma_39911","39911","Aulacoseira tenella",1,1,6.49567884025648
+14016,"Aulacoseira tenella","Maple Lake",45.092684,-78.670146,"Neotoma","Neotoma_21736","21736","Aulacoseira distans var. tenella",1,1,6.07476635514019
+14180,"Aulacoseira tenella","ELA 226 (Enache et al 2011)",49.688856,-93.745598,"Neotoma","Neotoma_22150","22150","Aulacoseira distans var. tenella",1,2,6.06060606060606
+26226,"Aulacoseira tenella","Alexandra Lake",43.290304,-74.169656,"Neotoma","Neotoma_49024","49024","Melosira distans var. tenella",1,1,5.95009596928983
+14183,"Aulacoseira tenella","ELA 377 (Enache et al 2011)",49.720284,-93.777976,"Neotoma","Neotoma_22155","22155","Aulacoseira distans var. tenella",1,1,5.81395348837209
+14027,"Aulacoseira tenella","Soyer's Lake",45.022194,-78.616756,"Neotoma","Neotoma_21760","21760","Aulacoseira distans var. tenella",1,1,5.72033898305085
+26228,"Aulacoseira tenella","Barbadoes Pond",43.190028,-70.932756,"Neotoma","Neotoma_49026","49026","Melosira distans var. tenella",1,1,5.44090056285178
+14019,"Aulacoseira tenella","Lake Muskoka, Muskoka Bay",44.934034,-79.406434,"Neotoma","Neotoma_21742","21742","Aulacoseira distans var. tenella",1,1,5.40540540540541
+14184,"Aulacoseira tenella","ELA 378 (Enache et al 2011)",49.710386,-93.777034,"Neotoma","Neotoma_22157","22157","Aulacoseira distans var. tenella",1,1,5.09259259259259
+24462,"Aulacoseira tenella","Long P. (K.R.)",43.639074,-74.290066,"Neotoma","Neotoma_51997","51997","Melosira distans var. tenella",1,1,4.96031746031746
+26245,"Aulacoseira tenella","Chesham Pond",42.9388,-72.1352,"Neotoma","Neotoma_49045","49045","Melosira distans var. tenella",1,2,4.92424242424242
+14320,"Aulacoseira tenella","North White Ash Lake",45.46127,-92.312196,"Neotoma","Neotoma_22412","22412","Aulacoseira tenella",1,1,4.91803278688525
+14189,"Aulacoseira tenella","ELA 625 (Enache et al 2011)",49.752502,-93.809408,"Neotoma","Neotoma_22167","22167","Aulacoseira distans var. tenella",1,2,4.79302832244009
+11688,"Aulacoseira tenella","Shields Lake",45.252258,-92.945638,"Neotoma","Neotoma_49374","49374","Aulacoseira tenella",1,1,4.74452554744526
+14172,"Aulacoseira tenella","ELA 129 (Enache et al 2011)",49.64389,-93.835934,"Neotoma","Neotoma_22135","22135","Aulacoseira distans var. tenella",1,2,4.67091295116773
+14036,"Aulacoseira tenella","Young Lake",45.203066,-79.54903,"Neotoma","Neotoma_21780","21780","Aulacoseira distans var. tenella",1,1,4.66200466200466
+14654,"Aulacoseira tenella","Desair Lake",45.542998,-91.779596,"Neotoma","Neotoma_22994","22994","Aulacoseira tenella",1,1,4.46428571428571
+42060,"Aulacoseira tenella","Christina River",39.71955,-75.56772,"Neotoma","Neotoma_74744 | Neotoma_74741 | Neotoma_74748","74744 | 74741 | 74748","Aulacoseira tenella",3,3,4.33925049309665
+24437,"Aulacoseira tenella","Chub L.",43.25833,-74.53055,"Neotoma","Neotoma_51983","51983","Melosira distans var. tenella",1,1,4.29447852760736
+13945,"Aulacoseira tenella","Dickie Lake",45.15,-79.08333,"Neotoma","Neotoma_21473","21473","Aulacoseira distans var. tenella",1,1,4.15754923413567
+14159,"Aulacoseira tenella","Windermere Lake [ELA 435 (Enache et al 2011)]",49.808978,-93.801768,"Neotoma","Neotoma_22110","22110","Aulacoseira distans var. tenella",1,1,4.14634146341463
+26236,"Aulacoseira tenella","Blenheim Gilboa Rese.",42.443,-74.4552,"Neotoma","Neotoma_49036","49036","Melosira distans var. tenella",1,1,4.06189555125725
+14087,"Aulacoseira tenella","Mountaintop Lake",46.927086,-80.891158,"Neotoma","Neotoma_21949","21949","Aulacoseira distans var. tenella",1,4,4.04984423676012
+14195,"Aulacoseira tenella","ELA 93 (Enache et al 2011)",49.74795,-93.846962,"Neotoma","Neotoma_22178","22178","Aulacoseira distans var. tenella",1,1,3.97022332506203
+14007,"Aulacoseira tenella","Kennisis Lake",45.20661,-78.642332,"Neotoma","Neotoma_21716","21716","Aulacoseira distans var. tenella",1,1,3.60576923076923
+22767,"Aulacoseira tenella","Breckinridge Reservoir",38.54282,-77.39674,"Neotoma","Neotoma_39491","39491","Aulacoseira tenella",1,1,3.57142857142857
+13940,"Aulacoseira tenella","Chub Lake",45.21667,-78.98333,"Neotoma","Neotoma_21463","21463","Aulacoseira distans var. tenella",1,1,3.51648351648352
+14186,"Aulacoseira tenella","ELA 384 (Enache et al 2011)",49.696076,-93.616278,"Neotoma","Neotoma_22161","22161","Aulacoseira distans var. tenella",1,1,3.40136054421769
+14157,"Aulacoseira tenella","ELA 111 (Enache et al 2011)",49.742532,-93.836772,"Neotoma","Neotoma_22106","22106","Aulacoseira distans var. tenella",1,1,3.39805825242718
+24479,"Aulacoseira tenella","Woodhull L.",43.595372,-74.993768,"Neotoma","Neotoma_52016","52016","Melosira distans var. tenella",1,1,3.37972166998012
+24436,"Aulacoseira tenella","Cheney Pond",43.877326,-74.162748,"Neotoma","Neotoma_54613","54613","Melosira distans var. tenella",1,1,3.37301587301587
+24473,"Aulacoseira tenella","Unknown P.",43.817942,-74.284324,"Neotoma","Neotoma_52012","52012","Melosira distans var. tenella",1,1,3.2
+23984,"Aulacoseira tenella","Richie",48.040358,-88.70317,"Neotoma","Neotoma_52898","52898","Aulacoseira tenella",1,1,3.01204819277108
+24477,"Aulacoseira tenella","Windfall Pond",43.805286,-74.829372,"Neotoma","Neotoma_46236","46236","Melosira distans var. tenella",1,1,2.97397769516729
+14010,"Aulacoseira tenella","Little Redstone Lake",45.213074,-78.571098,"Neotoma","Neotoma_21724","21724","Aulacoseira distans var. tenella",1,1,2.91666666666667
+14181,"Aulacoseira tenella","ELA 257 (Enache et al 2011)",49.686958,-93.819458,"Neotoma","Neotoma_22151","22151","Aulacoseira distans var. tenella",1,1,2.9126213592233
+14024,"Aulacoseira tenella","Red Pine Lake",45.200374,-78.707086,"Neotoma","Neotoma_21754","21754","Aulacoseira distans var. tenella",1,1,2.88888888888889
+14035,"Aulacoseira tenella","Walker Lake",45.378522,-79.091352,"Neotoma","Neotoma_21778","21778","Aulacoseira distans var. tenella",1,1,2.88065843621399
+26240,"Aulacoseira tenella","Brueyer Pond",44.13778,-74.29583,"Neotoma","Neotoma_49040","49040","Melosira distans var. tenella",1,1,2.86225402504472
+24482,"Aulacoseira tenella","Mud L. (S.L.)",43.341006,-74.454016,"Neotoma","Neotoma_52002","52002","Melosira distans var. tenella",1,1,2.79441117764471
+24484,"Aulacoseira tenella","Nate P.",43.857412,-74.09086,"Neotoma","Neotoma_52003","52003","Melosira distans var. tenella",1,1,2.79441117764471
+24404,"Aulacoseira tenella","Highland Lake",43.10064,-72.08862,"Neotoma","Neotoma_50267","50267","Aulacoseira tenella",1,1,2.75590551181102
+14022,"Aulacoseira tenella","Plastic Lake",45.178846,-78.823194,"Neotoma","Neotoma_21748","21748","Aulacoseira distans var. tenella",1,1,2.71844660194175
+14017,"Aulacoseira tenella","McKay Lake",45.0534,-79.178832,"Neotoma","Neotoma_21738","21738","Aulacoseira distans var. tenella",1,1,2.58215962441315
+14165,"Aulacoseira tenella","ELA 438 (Enache et al 2011)",49.785418,-93.809472,"Neotoma","Neotoma_22122","22122","Aulacoseira distans var. tenella",1,1,2.56410256410256
+24464,"Aulacoseira tenella","Middle P.",44.338556,-74.380924,"Neotoma","Neotoma_51998","51998","Melosira distans var. tenella",1,1,2.56410256410256
+14140,"Aulacoseira tenella","Brady Lake",58.322072,-136.681838,"Neotoma","Neotoma_22063","22063","Melosira distans var. tenella",1,1,2.55941499085923
+14021,"Aulacoseira tenella","Oblong Lake",45.177106,-78.436632,"Neotoma","Neotoma_21746","21746","Aulacoseira distans var. tenella",1,1,2.51716247139588
